@@ -918,7 +918,7 @@ namespace prjInventory
 
             foreach (DataGridViewRow row in dgvPdtML.SelectedRows)
             {
-                DialogResult d = MessageBox.Show("Are you sure do you want to one time update the item '" + row.Cells[2].Value.ToString() + "'?", "One Time Update", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+                DialogResult d = MessageBox.Show("Are you sure do you want to one time update the item code'" + row.Cells[1].Value.ToString() + "'?", "One Time Update", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
 
                 if (d != DialogResult.Yes)
                 {

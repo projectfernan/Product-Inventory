@@ -554,7 +554,7 @@ namespace prjInventory
             }
         }
 
-        public bool UpdatePdt(string desc,string itemName, string group, string batch, string mats, string upper, string sole, string style, string mkdnStat, string moveStat, string itemStat , double SRP, double fSRP,string UpdBy)
+        public bool UpdatePdt(string desc,string itemName, string group, string batch, string mats, string upper, string sole, string style, string mkdnStat, string moveStat, string itemStat , double SRP, double fSRP,string UpdBy,string itemCode)
         {
             try
             {
@@ -571,7 +571,7 @@ namespace prjInventory
                                                       "`SRP` = " + SRP + "," +
                                                       "`fSRP` = " + fSRP + "," +
                                                       "`DateUpdated` = '" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + "'," +
-                                                      "`UpdatedBy` = '" + UpdBy + "' WHERE Description = '" + desc + "'";
+                                                      "`UpdatedBy` = '" + UpdBy + "' WHERE ItemCode = '" + itemCode + "'";
 
                 return MySqlQueryCUD(msQr);
             }

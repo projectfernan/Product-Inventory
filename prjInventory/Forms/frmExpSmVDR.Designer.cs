@@ -96,6 +96,7 @@
             this.txtExcelFname.Name = "txtExcelFname";
             this.txtExcelFname.Size = new System.Drawing.Size(209, 24);
             this.txtExcelFname.TabIndex = 3;
+            this.txtExcelFname.Text = "CSGRCW_014334";
             this.txtExcelFname.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtExcelFname_KeyDown);
             // 
             // label13

@@ -380,6 +380,7 @@
             this.txtExcelFname.Name = "txtExcelFname";
             this.txtExcelFname.Size = new System.Drawing.Size(209, 24);
             this.txtExcelFname.TabIndex = 12;
+            this.txtExcelFname.Text = "CONS_014334";
             this.txtExcelFname.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtExcelFname_KeyDown);
             // 
             // label14

@@ -235,7 +235,7 @@ namespace prjInventory
             if (d != DialogResult.Yes) return;
 
             SUS_Upload upd = new SUS_Upload();
-            if (upd.UpdatePdt(desc,txtItemName.Text,txtGroup.Text,txtBatch.Text,txtMaterial.Text,txtUpper.Text,txtSole.Text,txtStyle.Text,txtMkdnStat.Text,txtMoveStat.Text,txtItemStat.Text,Convert.ToDouble( txtSRP.Value),Convert.ToDouble( txtfSRP.Value),UpdateBy) == false) 
+            if (upd.UpdatePdt(desc,txtItemName.Text,txtGroup.Text,txtBatch.Text,txtMaterial.Text,txtUpper.Text,txtSole.Text,txtStyle.Text,txtMkdnStat.Text,txtMoveStat.Text,txtItemStat.Text,Convert.ToDouble( txtSRP.Value),Convert.ToDouble( txtfSRP.Value),UpdateBy,itemCode) == false) 
             {
                 MessageBox.Show("Failed to update. Please try again.", "Update", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
