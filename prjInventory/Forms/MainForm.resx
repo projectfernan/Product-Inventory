@@ -1323,7 +1323,7 @@
     <value>19, 108</value>
   </data>
   <data name="dgvPdtML.Size" type="System.Drawing.Size, System.Drawing">
-    <value>868, 350</value>
+    <value>868, 351</value>
   </data>
   <data name="dgvPdtML.TabIndex" type="System.Int32, mscorlib">
     <value>6768</value>
@@ -1400,7 +1400,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSKUrec.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 221</value>
+    <value>151, 220</value>
   </data>
   <data name="btnSKUrec.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -1523,7 +1523,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnUplSKU.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 163</value>
+    <value>151, 162</value>
   </data>
   <data name="btnUplSKU.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -1576,7 +1576,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnCreateSKU.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 105</value>
+    <value>151, 104</value>
   </data>
   <data name="btnCreateSKU.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -1600,7 +1600,7 @@
     <value>3</value>
   </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 98</value>
+    <value>132, 89</value>
   </data>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>639, 352</value>
@@ -2302,7 +2302,7 @@
     <value>13</value>
   </data>
   <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>184, 106</value>
+    <value>184, 97</value>
   </data>
   <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 338</value>
@@ -3142,7 +3142,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnStoreSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 258</value>
+    <value>151, 257</value>
   </data>
   <data name="btnStoreSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3191,7 +3191,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnBrandSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 201</value>
+    <value>151, 200</value>
   </data>
   <data name="btnBrandSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3249,7 +3249,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnImagePath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 316</value>
+    <value>151, 315</value>
   </data>
   <data name="btnImagePath.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3394,7 +3394,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSysAccSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 142</value>
+    <value>151, 141</value>
   </data>
   <data name="btnSysAccSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3449,7 +3449,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnDbSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>152, 84</value>
+    <value>151, 83</value>
   </data>
   <data name="btnDbSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3473,7 +3473,7 @@
     <value>5</value>
   </data>
   <data name="panel6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>133, 63</value>
+    <value>133, 54</value>
   </data>
   <data name="panel6.Size" type="System.Drawing.Size, System.Drawing">
     <value>639, 422</value>
@@ -3546,7 +3546,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>790, 503</value>
+    <value>790, 501</value>
   </data>
   <data name="button8.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -3599,7 +3599,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnTest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>206, 310</value>
+    <value>204, 308</value>
   </data>
   <data name="btnTest.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -3647,7 +3647,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>314, 310</value>
+    <value>312, 308</value>
   </data>
   <data name="btnSave.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -4025,7 +4025,7 @@
     <value>12</value>
   </data>
   <data name="panel8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>196, 74</value>
+    <value>196, 65</value>
   </data>
   <data name="panel8.Size" type="System.Drawing.Size, System.Drawing">
     <value>513, 395</value>
@@ -4161,25 +4161,25 @@
     <value>
         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
-        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
+        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
 </value>
   </data>
   <data name="btnAddAcc.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
@@ -4753,7 +4753,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnBack6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>797, 506</value>
+    <value>797, 507</value>
   </data>
   <data name="btnBack6.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -5120,7 +5120,7 @@
     <value>3</value>
   </data>
   <data name="panel12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>187, 155</value>
+    <value>187, 146</value>
   </data>
   <data name="panel12.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 237</value>
@@ -5616,7 +5616,7 @@
     <value>21, 114</value>
   </data>
   <data name="dgvSKUrec.Size" type="System.Drawing.Size, System.Drawing">
-    <value>863, 392</value>
+    <value>863, 393</value>
   </data>
   <data name="dgvSKUrec.TabIndex" type="System.Int32, mscorlib">
     <value>6769</value>
@@ -5761,7 +5761,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnBarcodeReg.Location" type="System.Drawing.Point, System.Drawing">
-    <value>153, 160</value>
+    <value>152, 159</value>
   </data>
   <data name="btnBarcodeReg.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -5785,7 +5785,7 @@
     <value>1</value>
   </data>
   <data name="panel15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 97</value>
+    <value>134, 88</value>
   </data>
   <data name="panel15.Size" type="System.Drawing.Size, System.Drawing">
     <value>639, 352</value>
@@ -5858,7 +5858,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnTabBcodeRegBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>792, 506</value>
+    <value>792, 503</value>
   </data>
   <data name="btnTabBcodeRegBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -6267,7 +6267,7 @@
     <value>10</value>
   </data>
   <data name="panel17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>185, 106</value>
+    <value>185, 97</value>
   </data>
   <data name="panel17.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 338</value>
@@ -6321,7 +6321,7 @@
     <value>20, 63</value>
   </data>
   <data name="dgvBarcodeReg.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 396</value>
+    <value>866, 393</value>
   </data>
   <data name="dgvBarcodeReg.TabIndex" type="System.Int32, mscorlib">
     <value>6793</value>
@@ -6364,7 +6364,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnRegBcodeBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>794, 475</value>
+    <value>794, 474</value>
   </data>
   <data name="btnRegBcodeBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -6491,7 +6491,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnExpRegBcode.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 475</value>
+    <value>18, 474</value>
   </data>
   <data name="btnExpRegBcode.Size" type="System.Drawing.Size, System.Drawing">
     <value>232, 36</value>
@@ -6697,7 +6697,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnImgPathBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>790, 502</value>
+    <value>790, 501</value>
   </data>
   <data name="btnImgPathBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -7011,7 +7011,7 @@
     <value>6</value>
   </data>
   <data name="panel21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>190, 150</value>
+    <value>190, 141</value>
   </data>
   <data name="panel21.Size" type="System.Drawing.Size, System.Drawing">
     <value>526, 251</value>
@@ -7243,7 +7243,7 @@
     <value>3</value>
   </data>
   <data name="panel23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>186, 142</value>
+    <value>186, 133</value>
   </data>
   <data name="panel23.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 263</value>
@@ -7297,7 +7297,7 @@
     <value>18, 109</value>
   </data>
   <data name="dgvVdrExpList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 342</value>
+    <value>866, 344</value>
   </data>
   <data name="dgvVdrExpList.TabIndex" type="System.Int32, mscorlib">
     <value>6800</value>
@@ -7340,7 +7340,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnVdrExpBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>793, 471</value>
+    <value>793, 473</value>
   </data>
   <data name="btnVdrExpBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -7469,7 +7469,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnVdrExpTemp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 471</value>
+    <value>19, 473</value>
   </data>
   <data name="btnVdrExpTemp.Size" type="System.Drawing.Size, System.Drawing">
     <value>184, 36</value>
@@ -7836,7 +7836,7 @@
     <value>3</value>
   </data>
   <data name="panel26.Location" type="System.Drawing.Point, System.Drawing">
-    <value>183, 171</value>
+    <value>183, 162</value>
   </data>
   <data name="panel26.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 263</value>
@@ -7890,7 +7890,7 @@
     <value>18, 110</value>
   </data>
   <data name="dgvVpoExpList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>866, 388</value>
+    <value>866, 369</value>
   </data>
   <data name="dgvVpoExpList.TabIndex" type="System.Int32, mscorlib">
     <value>6807</value>
@@ -7933,7 +7933,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnVpoBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>792, 516</value>
+    <value>792, 497</value>
   </data>
   <data name="btnVpoBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -8064,7 +8064,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnVpoExp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 516</value>
+    <value>18, 497</value>
   </data>
   <data name="btnVpoExp.Size" type="System.Drawing.Size, System.Drawing">
     <value>184, 36</value>
@@ -11480,7 +11480,7 @@
     <value>17, 52</value>
   </data>
   <data name="Logo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>321, 136</value>
+    <value>319, 136</value>
   </data>
   <data name="Logo.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
@@ -11690,7 +11690,7 @@
     <value>3</value>
   </data>
   <data name="panel29.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 32</value>
+    <value>273, 35</value>
   </data>
   <data name="panel29.Size" type="System.Drawing.Size, System.Drawing">
     <value>361, 488</value>
@@ -11784,7 +11784,7 @@
     <value> </value>
   </data>
   <data name="statusStrip10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 389</value>
+    <value>0, 386</value>
   </data>
   <data name="statusStrip10.Size" type="System.Drawing.Size, System.Drawing">
     <value>857, 29</value>
@@ -11825,19 +11825,19 @@
   <data name="btnBrandAdd.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         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
-        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
+        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
 </value>
   </data>
   <data name="btnBrandAdd.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
@@ -12001,7 +12001,7 @@
     <value>489, 86</value>
   </data>
   <data name="dgvBrandRec.Size" type="System.Drawing.Size, System.Drawing">
-    <value>346, 276</value>
+    <value>346, 273</value>
   </data>
   <data name="dgvBrandRec.TabIndex" type="System.Int32, mscorlib">
     <value>6767</value>
@@ -12160,7 +12160,7 @@
     <value>24, 63</value>
   </data>
   <data name="panel31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>857, 418</value>
+    <value>857, 415</value>
   </data>
   <data name="panel31.TabIndex" type="System.Int32, mscorlib">
     <value>6805</value>
@@ -12203,7 +12203,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnStoreBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>792, 503</value>
+    <value>792, 502</value>
   </data>
   <data name="btnStoreBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -12419,7 +12419,7 @@
   <data name="btnStoreAdd.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALBSURBVGhD7Zk7bxQxEMdPvApKHhWPL4FApLoCKbrc+s5e
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALBSURBVGhD7Zk7bxQxEMdPvApKHhWPL4FApDqJIrrc+s5e
         KScQ9HwFIprrAn1AEFFShdzaUh40FHwGEHwAHhUQaqCBmb1JY43Jzj6cW2l/0l+KdOPx/zZrezzX6+jo
         qM7k1eSksmYpcfqhcjpLMvNRzcxP5dSfXPD30JoP+WcQM8rSm9Pp9AQNPz6001fA+GPQV+XMX5lGX+DL
         PBpk6WVKF4/B1upFlY03++7Wb95ccWGOodPP1I66QOmbBV6Du/D0DjgzVbTiVn4kWXqHpqmfa5v3TyfW
@@ -12431,7 +12431,7 @@
         LjS4/ye7ySWyV4y83cclOxbpDbJVnOWt1XOLcKnHlmPpvin2KrmkMZXYdEJ2yoG9Si5xDMFm8oRslAfv
         ocPMOG6CZqX3+m/7p8hGNbDRCsf4Pj9R/UrceLe25u4h2OSNsTPha1Pbk+fAXmUzu9P4W+UFWxTsm2K7
         Dw8Y3oxAeQ69gds2pY8Hno5YdpSpneZj9Lr4hG0CLLKw6QQLfQ1rdrx44M0Oy5F5STI6gIvSO/wMS2Ks
-        KhfiZ9aOjtbT6/0Ddt5qN1uCD44AAAAASUVORK5CYII=
+        KhfiZ9aOjtbT6/0Dz7VqLlxZexkAAAAASUVORK5CYII=
 </value>
   </data>
   <data name="btnStoreAdd.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
@@ -13140,7 +13140,7 @@
     <value>4</value>
   </data>
   <data name="panel35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>185, 145</value>
+    <value>185, 136</value>
   </data>
   <data name="panel35.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 263</value>
@@ -13215,7 +13215,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnExpPOList.Location" type="System.Drawing.Point, System.Drawing">
-    <value>700, 524</value>
+    <value>701, 526</value>
   </data>
   <data name="btnExpPOList.Size" type="System.Drawing.Size, System.Drawing">
     <value>184, 36</value>
@@ -13271,7 +13271,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnCancelPO.Location" type="System.Drawing.Point, System.Drawing">
-    <value>603, 524</value>
+    <value>604, 526</value>
   </data>
   <data name="btnCancelPO.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -13304,7 +13304,7 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="txtQtyPO.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 531</value>
+    <value>22, 533</value>
   </data>
   <data name="txtQtyPO.Size" type="System.Drawing.Size, System.Drawing">
     <value>95, 24</value>
@@ -13352,7 +13352,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnToPO.Location" type="System.Drawing.Point, System.Drawing">
-    <value>127, 525</value>
+    <value>127, 527</value>
   </data>
   <data name="btnToPO.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -13478,7 +13478,7 @@
     <value> </value>
   </data>
   <data name="statusStrip11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 379</value>
+    <value>0, 381</value>
   </data>
   <data name="statusStrip11.Size" type="System.Drawing.Size, System.Drawing">
     <value>490, 29</value>
@@ -13772,7 +13772,7 @@
     <value>7, 122</value>
   </data>
   <data name="dgvDeliveredRec.Size" type="System.Drawing.Size, System.Drawing">
-    <value>469, 246</value>
+    <value>469, 248</value>
   </data>
   <data name="dgvDeliveredRec.TabIndex" type="System.Int32, mscorlib">
     <value>6809</value>
@@ -13875,10 +13875,10 @@
     <value> </value>
   </data>
   <data name="statusStrip12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 379</value>
+    <value>0, 381</value>
   </data>
   <data name="statusStrip12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>365, 29</value>
+    <value>366, 29</value>
   </data>
   <data name="statusStrip12.TabIndex" type="System.Int32, mscorlib">
     <value>235347</value>
@@ -13935,7 +13935,7 @@
     <value>14, 122</value>
   </data>
   <data name="dgvToPO.Size" type="System.Drawing.Size, System.Drawing">
-    <value>341, 246</value>
+    <value>342, 248</value>
   </data>
   <data name="dgvToPO.TabIndex" type="System.Int32, mscorlib">
     <value>6810</value>
@@ -13965,7 +13965,7 @@
     <value>1</value>
   </data>
   <data name="splitContainer2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>863, 410</value>
+    <value>864, 412</value>
   </data>
   <data name="splitContainer2.SplitterDistance" type="System.Int32, mscorlib">
     <value>492</value>
@@ -13989,7 +13989,7 @@
     <value>21, 96</value>
   </data>
   <data name="panel38.Size" type="System.Drawing.Size, System.Drawing">
-    <value>863, 410</value>
+    <value>864, 412</value>
   </data>
   <data name="panel38.TabIndex" type="System.Int32, mscorlib">
     <value>6811</value>
@@ -14066,7 +14066,7 @@
     <value>3, 3</value>
   </data>
   <data name="panel37.Size" type="System.Drawing.Size, System.Drawing">
-    <value>898, 37</value>
+    <value>899, 37</value>
   </data>
   <data name="panel37.TabIndex" type="System.Int32, mscorlib">
     <value>6808</value>
@@ -14150,7 +14150,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabExpPullOut21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>904, 581</value>
+    <value>905, 583</value>
   </data>
   <data name="tabExpPullOut21.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -14171,10 +14171,10 @@
     <value>21</value>
   </data>
   <data name="tabControl.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-3, -20</value>
+    <value>-3, -21</value>
   </data>
   <data name="tabControl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>912, 607</value>
+    <value>913, 609</value>
   </data>
   <data name="tabControl.TabIndex" type="System.Int32, mscorlib">
     <value>78787</value>
@@ -14333,9 +14333,6 @@
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
   <data name="$this.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
