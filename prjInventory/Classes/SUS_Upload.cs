@@ -54,7 +54,7 @@ namespace prjInventory
                     gototest:
 
                         string desc = rs.Fields["desc"].Value.ToString();
-                        string descrip = desc.Replace("-", " ").Replace("/", " ");
+                        string descrip = desc.Replace("-", " ").Replace("/", " ").Replace("."," ");
 
                         if (checkDesc(descrip) == true)
                         {
@@ -199,7 +199,7 @@ namespace prjInventory
         {
             try
             {
-                string description = descrip.Replace("-", " ").Replace("/", " ");
+                string description = descrip.Replace("-", " ").Replace("/", " ").Replace(".", " "); ;
 
                 string msQr = "INSERT INTO tblproducts(Barcode,ItemCode,Description,Color,Size,Brand,`Group`,Category,oSRP,SRP,UOM,Sole,`Upper`,Style,Batch,Material,ItemName,fSRP,ItemStatus,MkdnStatus,MovingStatus,WorkBatchName,UploadBy,UpdatedBy,FileStatus,PicName)VALUES('" +
                                       barcode + "','" +
