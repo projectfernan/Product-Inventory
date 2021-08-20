@@ -160,7 +160,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(276, 20);
             this.label1.TabIndex = 921;
-            this.label1.Text = "Product Inventory System V 1.0.0";
+            this.label1.Text = "Product Inventory System V 1.0.1";
             // 
             // frmLogin
             // 
