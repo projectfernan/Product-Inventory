@@ -109,6 +109,14 @@ namespace prjInventory
                             DialogResult s = MessageBox.Show("Operation failed! Try again?", "Upload", MessageBoxButtons.RetryCancel, MessageBoxIcon.Question);
                             if (s != DialogResult.Retry)
                             {
+                                if (intCount == 0) 
+                                {
+                                    MessageBox.Show("Upload canceled!", "Upload", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                                    wc.WaitCurFalse();
+
+                                    return false;
+                                } 
+
                                 do
                                 {
                                     intCount = intCount - 1;

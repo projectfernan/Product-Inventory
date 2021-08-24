@@ -643,7 +643,6 @@
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Button btnSavePdt;
         private System.Windows.Forms.Button btnBrowse;
-        private System.Windows.Forms.TextBox txtUOMtxtoSRP;
         private System.Windows.Forms.TextBox txtoSRP;
     }
 }
