@@ -33,7 +33,7 @@ namespace prjInventory
 
         private void btnExpSMTemp_Click(object sender, EventArgs e)
         {
-            if (txtVendorCode.Text == "" || txtDeptCode.Text == "" || txtBrandCode.Text == "" || txtHashtag.Text == "" || txtFourteenField.Text == "" || txtFifteenField.Text == "" || txtExcelFname.Text == "") 
+            if (txtVendorCode.Text == "" || txtDeptCode.Text == "" || txtBrandCode.Text == "" || txtFourteenField.Text == "" || txtFifteenField.Text == "" || txtExcelFname.Text == "") 
             {
                 MessageBox.Show("Please don't leave a blank those important fields!","Export",MessageBoxButtons.OK,MessageBoxIcon.Warning);
                 return;
@@ -58,7 +58,7 @@ namespace prjInventory
             string dateCreated = dtCreated.Value.ToString("dd MM yyyy");
             string dateSaved = dtSaved.Value.ToString("dd MM yyyy");
 
-            if (exp.expExcelSmTemp(WbName,txtFirstField.Text,txtVendorCode.Text,txtDeptCode.Text,txtSubDeptCode.Text,txtBrandCode.Text,txtHashtag.Text,txtStockStyle.Text,txtSourcemarked.Text,txtFourteenField.Text,txtFifteenField.Text,dateCreated,dateSaved,txtExcelFname.Text)) 
+            if (exp.expExcelSmTemp(WbName,txtFirstField.Text,txtVendorCode.Text,txtDeptCode.Text,txtSubDeptCode.Text,txtBrandCode.Text,txtStockStyle.Text,txtSourcemarked.Text,txtFourteenField.Text,txtFifteenField.Text,dateCreated,dateSaved,txtExcelFname.Text)) 
             {
 retryStat:      if (exp.UpdateFileStat(UploadBy,WbName,1))
                 {
@@ -110,14 +110,6 @@ retryStat:      if (exp.UpdateFileStat(UploadBy,WbName,1))
         }
 
         private void txtBrandCode_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.Enter)
-            {
-                txtHashtag.Focus();
-            }
-        }
-
-        private void txtHashtag_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
             {
@@ -197,7 +189,7 @@ retryStat:      if (exp.UpdateFileStat(UploadBy,WbName,1))
         {
             if (e.KeyCode == Keys.Enter) 
             {
-                txtHashtag.Focus();
+                txtStockStyle.Focus();
             }
         }
     }

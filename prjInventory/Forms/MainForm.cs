@@ -1707,5 +1707,10 @@ pullit:             if (po.insPullOut(row.Cells[1].Value.ToString(), row.Cells[3
         {
 
         }
+
+        private void tabDbSettings5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

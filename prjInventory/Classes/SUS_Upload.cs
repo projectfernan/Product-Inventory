@@ -375,7 +375,7 @@ namespace prjInventory
             }
         }
 
-        public bool expExcelSmTemp(string wbName,string firstField,string vendorCode,string deptCode,string subDeptCode,string brandCode,string hashtag,string stockStyleCode, string socmaBarcode,string fourteenField,string fifteenField, string DateCreated,string DateSaved,string FileName)
+        public bool expExcelSmTemp(string wbName,string firstField,string vendorCode,string deptCode,string subDeptCode,string brandCode,string stockStyleCode, string socmaBarcode,string fourteenField,string fifteenField, string DateCreated,string DateSaved,string FileName)
         {
             try
             {
@@ -399,7 +399,7 @@ namespace prjInventory
 
                     DataTable dt = new DataTable();
 
-                    string getQr = "SELECT Brand,Description,Color,Size,oSRP FROM tblproducts WHERE WorkBatchName = '" + wbName + "' and FileStatus = 0";
+                    string getQr = "SELECT Brand,Description,Color,Size,oSRP,Category FROM tblproducts WHERE WorkBatchName = '" + wbName + "' and FileStatus = 0";
 
                     dt = MySqlQuery(getQr);
 
@@ -433,7 +433,7 @@ namespace prjInventory
                             ws.Cells[lup, 3] = deptCode;
                             ws.Cells[lup, 4] = subDeptCode;
                             ws.Cells[lup, 5] = brandCode;
-                            ws.Cells[lup, 6] = hashtag;
+                            ws.Cells[lup, 6] = dt.Rows[fild]["Category"].ToString();
                             ws.Cells[lup, 7] = dt.Rows[fild]["Brand"].ToString();
                             ws.Cells[lup, 8] = dt.Rows[fild]["Description"].ToString();
                             ws.Cells[lup, 9] = dt.Rows[fild]["Color"].ToString();

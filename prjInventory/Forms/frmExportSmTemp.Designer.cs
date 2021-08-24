@@ -40,8 +40,6 @@
             this.txtDeptCode = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.txtBrandCode = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.txtHashtag = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.txtStockStyle = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -193,34 +191,12 @@
             this.txtBrandCode.TabStop = false;
             this.txtBrandCode.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtBrandCode_KeyDown);
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(185, 307);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(24, 18);
-            this.label4.TabIndex = 924;
-            this.label4.Text = "# :";
-            // 
-            // txtHashtag
-            // 
-            this.txtHashtag.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtHashtag.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtHashtag.Location = new System.Drawing.Point(215, 305);
-            this.txtHashtag.Name = "txtHashtag";
-            this.txtHashtag.Size = new System.Drawing.Size(209, 24);
-            this.txtHashtag.TabIndex = 5;
-            this.txtHashtag.Text = "4";
-            this.txtHashtag.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtHashtag_KeyDown);
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(78, 354);
+            this.label5.Location = new System.Drawing.Point(78, 309);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(131, 18);
             this.label5.TabIndex = 926;
@@ -230,7 +206,7 @@
             // 
             this.txtStockStyle.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtStockStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtStockStyle.Location = new System.Drawing.Point(215, 352);
+            this.txtStockStyle.Location = new System.Drawing.Point(215, 307);
             this.txtStockStyle.Name = "txtStockStyle";
             this.txtStockStyle.Size = new System.Drawing.Size(209, 24);
             this.txtStockStyle.TabIndex = 6;
@@ -241,7 +217,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(35, 399);
+            this.label6.Location = new System.Drawing.Point(35, 354);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(174, 18);
             this.label6.TabIndex = 928;
@@ -251,7 +227,7 @@
             // 
             this.txtSourcemarked.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtSourcemarked.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSourcemarked.Location = new System.Drawing.Point(215, 399);
+            this.txtSourcemarked.Location = new System.Drawing.Point(215, 354);
             this.txtSourcemarked.Name = "txtSourcemarked";
             this.txtSourcemarked.Size = new System.Drawing.Size(209, 24);
             this.txtSourcemarked.TabIndex = 7;
@@ -262,7 +238,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(99, 448);
+            this.label7.Location = new System.Drawing.Point(99, 403);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(110, 18);
             this.label7.TabIndex = 930;
@@ -272,7 +248,7 @@
             // 
             this.txtFourteenField.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtFourteenField.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtFourteenField.Location = new System.Drawing.Point(215, 446);
+            this.txtFourteenField.Location = new System.Drawing.Point(215, 401);
             this.txtFourteenField.Name = "txtFourteenField";
             this.txtFourteenField.Size = new System.Drawing.Size(209, 24);
             this.txtFourteenField.TabIndex = 8;
@@ -284,7 +260,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(114, 490);
+            this.label8.Location = new System.Drawing.Point(114, 445);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(95, 18);
             this.label8.TabIndex = 932;
@@ -294,7 +270,7 @@
             // 
             this.txtFifteenField.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtFifteenField.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtFifteenField.Location = new System.Drawing.Point(215, 488);
+            this.txtFifteenField.Location = new System.Drawing.Point(215, 443);
             this.txtFifteenField.Name = "txtFifteenField";
             this.txtFifteenField.Size = new System.Drawing.Size(209, 24);
             this.txtFifteenField.TabIndex = 9;
@@ -306,7 +282,7 @@
             this.dtCreated.CustomFormat = "dd MM yyyy";
             this.dtCreated.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtCreated.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtCreated.Location = new System.Drawing.Point(215, 532);
+            this.dtCreated.Location = new System.Drawing.Point(215, 487);
             this.dtCreated.Name = "dtCreated";
             this.dtCreated.Size = new System.Drawing.Size(209, 24);
             this.dtCreated.TabIndex = 10;
@@ -317,7 +293,7 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(106, 533);
+            this.label9.Location = new System.Drawing.Point(106, 488);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(103, 18);
             this.label9.TabIndex = 934;
@@ -328,7 +304,7 @@
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(117, 576);
+            this.label10.Location = new System.Drawing.Point(117, 531);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(92, 18);
             this.label10.TabIndex = 936;
@@ -339,7 +315,7 @@
             this.dtSaved.CustomFormat = "dd MM yyyy";
             this.dtSaved.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtSaved.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtSaved.Location = new System.Drawing.Point(215, 575);
+            this.dtSaved.Location = new System.Drawing.Point(215, 530);
             this.dtSaved.Name = "dtSaved";
             this.dtSaved.Size = new System.Drawing.Size(209, 24);
             this.dtSaved.TabIndex = 11;
@@ -352,7 +328,7 @@
             this.btnExpSMTemp.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExpSMTemp.Image = ((System.Drawing.Image)(resources.GetObject("btnExpSMTemp.Image")));
             this.btnExpSMTemp.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnExpSMTemp.Location = new System.Drawing.Point(329, 664);
+            this.btnExpSMTemp.Location = new System.Drawing.Point(329, 619);
             this.btnExpSMTemp.Name = "btnExpSMTemp";
             this.btnExpSMTemp.Size = new System.Drawing.Size(95, 36);
             this.btnExpSMTemp.TabIndex = 12;
@@ -366,7 +342,7 @@
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.Color.White;
-            this.label13.Location = new System.Drawing.Point(86, 621);
+            this.label13.Location = new System.Drawing.Point(86, 576);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(123, 18);
             this.label13.TabIndex = 938;
@@ -376,7 +352,7 @@
             // 
             this.txtExcelFname.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtExcelFname.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtExcelFname.Location = new System.Drawing.Point(215, 620);
+            this.txtExcelFname.Location = new System.Drawing.Point(215, 575);
             this.txtExcelFname.Name = "txtExcelFname";
             this.txtExcelFname.Size = new System.Drawing.Size(209, 24);
             this.txtExcelFname.TabIndex = 12;
@@ -422,7 +398,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(471, 746);
+            this.ClientSize = new System.Drawing.Size(471, 705);
             this.ControlBox = false;
             this.Controls.Add(this.cboBrand);
             this.Controls.Add(this.label14);
@@ -442,8 +418,6 @@
             this.Controls.Add(this.txtSourcemarked);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.txtStockStyle);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.txtHashtag);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtBrandCode);
             this.Controls.Add(this.label2);
@@ -478,8 +452,6 @@
         private System.Windows.Forms.TextBox txtDeptCode;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtBrandCode;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox txtHashtag;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtStockStyle;
         private System.Windows.Forms.Label label6;
