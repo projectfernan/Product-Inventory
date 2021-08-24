@@ -405,6 +405,11 @@ namespace prjInventory
 
                     if (dt.Rows.Count > 0)
                     {
+                        this.maxCount = rs.RecordCount;
+                        this.intCount = 0;
+
+                        UpdProgBaxMax(maxCount, intCount);
+
                         ws.Cells[1, 1] = "";
                         ws.Cells[1, 2] = "VENDOR";
                         ws.Cells[1, 3] = "DEPT";
@@ -448,6 +453,11 @@ namespace prjInventory
 
                             lup++;
                             fild++;
+
+                            intCount++;
+                            UpdateProgress(intCount);
+                            Application.DoEvents();
+
                         } while (fild != dt.Rows.Count);
 
                         wb.SaveAs(sfd.FileName, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing,

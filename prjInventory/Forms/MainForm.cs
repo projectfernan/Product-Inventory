@@ -1160,26 +1160,16 @@ namespace prjInventory
                 lblPullOutBatch.Text = poBatch;
                 sa.LoadAccList(cboDelvCreatedBy);
 
-                tabControl.SelectedIndex = 21;
+                tabControl.SelectedIndex = 19;
             }
             else 
             {
                 txtPullOutBatch.Text = "";
-                tabControl.SelectedIndex = 20;
+                tabControl.SelectedIndex = 18;
             }
         }
 
-        private void btnVpoNext_Click(object sender, EventArgs e)
-        {
-            if (cboVpoBcodeBatch.Text == "") return;
-
-            lblVpoBcodeBatch.Text = cboVpoBcodeBatch.Text;
-            lblVpoRecnt.Text = smVpo.LoadVpoExpList(dgvVpoExpList, lblSysAcc.Text, lblVpoBcodeBatch.Text).ToString();
-
-            cboVpoBcodeBatch.Text = "";
-
-            tabControl.SelectedIndex = 16;
-        }
+       
 
         private void cboVpoBcodeBatch_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -1189,16 +1179,6 @@ namespace prjInventory
         private void btnVpoBack_Click(object sender, EventArgs e)
         {
             tabControl.SelectedIndex = 15;
-        }
-
-        private void btnVpoExp_Click(object sender, EventArgs e)
-        {
-            frmExpSmVPO Vpo = new frmExpSmVPO();
-            Vpo.GotoVpo += new frmExpSmVPO.DeleGotoVpo(CreateVpo);
-            Vpo.UplBy = lblSysAcc.Text;
-            Vpo.BbName = lblVpoBcodeBatch.Text;
-
-            Vpo.ShowDialog();
         }
 
         private void MainForm_KeyDown(object sender, KeyEventArgs e)
@@ -1243,7 +1223,7 @@ namespace prjInventory
 
         private void btnAbout_Click(object sender, EventArgs e)
         {
-            tabControl.SelectedIndex = 17;
+            tabControl.SelectedIndex = 15;
         }
 
         private void label53_Click(object sender, EventArgs e)
@@ -1298,7 +1278,7 @@ namespace prjInventory
             txtBrandKeyword.Text = "";
             btnBrandSearch_Click(sender, e);
 
-            tabControl.SelectedIndex = 18;
+            tabControl.SelectedIndex = 16;
         }
 
         private void btnStoreSettings_Click(object sender, EventArgs e)
@@ -1306,7 +1286,7 @@ namespace prjInventory
             txtStoreKeyword.Text = "";
             btnStoreSearch_Click(sender, e);
 
-            tabControl.SelectedIndex = 19;
+            tabControl.SelectedIndex = 17;
         }
 
         private void btnBreandSearch_Click(object sender, EventArgs e)
@@ -1593,7 +1573,7 @@ namespace prjInventory
 
                 txtPullOutBatch.Text = "";
 
-                tabControl.SelectedIndex = 21;
+                tabControl.SelectedIndex = 19;
             }
         }
 
@@ -1709,6 +1689,31 @@ pullit:             if (po.insPullOut(row.Cells[1].Value.ToString(), row.Cells[3
         }
 
         private void tabDbSettings5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabSkuMenu1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabMenuSettings4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel23_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel35_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tabCreatePullOut20_Click(object sender, EventArgs e)
         {
 
         }

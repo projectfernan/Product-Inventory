@@ -39,7 +39,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.btnAbout = new System.Windows.Forms.Button();
             this.btnPullOut = new System.Windows.Forms.Button();
@@ -276,27 +275,7 @@
             this.toolStripStatusLabel16 = new System.Windows.Forms.ToolStripStatusLabel();
             this.lblVdrExpRecnt = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel18 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.tabCreatePout15 = new System.Windows.Forms.TabPage();
-            this.panel26 = new System.Windows.Forms.Panel();
-            this.label48 = new System.Windows.Forms.Label();
-            this.cboVpoBcodeBatch = new System.Windows.Forms.ComboBox();
-            this.btnVpoNext = new System.Windows.Forms.Button();
-            this.panel27 = new System.Windows.Forms.Panel();
-            this.label51 = new System.Windows.Forms.Label();
-            this.tabExpPout16 = new System.Windows.Forms.TabPage();
-            this.dgvVpoExpList = new System.Windows.Forms.DataGridView();
-            this.btnVpoBack = new System.Windows.Forms.Button();
-            this.panel28 = new System.Windows.Forms.Panel();
-            this.label52 = new System.Windows.Forms.Label();
-            this.btnVpoExp = new System.Windows.Forms.Button();
-            this.lblVpoBcodeBatch = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
-            this.statusStrip7 = new System.Windows.Forms.StatusStrip();
-            this.toolStripStatusLabel17 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripStatusLabel19 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.lblVpoRecnt = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripStatusLabel21 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.tabAbout17 = new System.Windows.Forms.TabPage();
+            this.tabAbout15 = new System.Windows.Forms.TabPage();
             this.panel29 = new System.Windows.Forms.Panel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label53 = new System.Windows.Forms.Label();
@@ -315,7 +294,7 @@
             this.label64 = new System.Windows.Forms.Label();
             this.panel30 = new System.Windows.Forms.Panel();
             this.label55 = new System.Windows.Forms.Label();
-            this.tabBrand18 = new System.Windows.Forms.TabPage();
+            this.tabBrand16 = new System.Windows.Forms.TabPage();
             this.panel31 = new System.Windows.Forms.Panel();
             this.statusStrip10 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel23 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -346,7 +325,7 @@
             this.btnStoreBack = new System.Windows.Forms.Button();
             this.panel32 = new System.Windows.Forms.Panel();
             this.label71 = new System.Windows.Forms.Label();
-            this.tabStore19 = new System.Windows.Forms.TabPage();
+            this.tabStore17 = new System.Windows.Forms.TabPage();
             this.panel33 = new System.Windows.Forms.Panel();
             this.statusStrip9 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel25 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -377,7 +356,7 @@
             this.btnStoreBackSettings = new System.Windows.Forms.Button();
             this.panel34 = new System.Windows.Forms.Panel();
             this.label70 = new System.Windows.Forms.Label();
-            this.tabCreatePullOut20 = new System.Windows.Forms.TabPage();
+            this.tabCreatePullOut18 = new System.Windows.Forms.TabPage();
             this.panel35 = new System.Windows.Forms.Panel();
             this.label75 = new System.Windows.Forms.Label();
             this.txtPullOutBatch = new System.Windows.Forms.TextBox();
@@ -385,7 +364,7 @@
             this.btnPOnext = new System.Windows.Forms.Button();
             this.panel36 = new System.Windows.Forms.Panel();
             this.label73 = new System.Windows.Forms.Label();
-            this.tabExpPullOut21 = new System.Windows.Forms.TabPage();
+            this.tabExpPullOut19 = new System.Windows.Forms.TabPage();
             this.btnExpPOList = new System.Windows.Forms.Button();
             this.btnCancelPO = new System.Windows.Forms.Button();
             this.txtQtyPO = new System.Windows.Forms.NumericUpDown();
@@ -487,37 +466,30 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvVdrExpList)).BeginInit();
             this.panel25.SuspendLayout();
             this.statusStrip6.SuspendLayout();
-            this.tabCreatePout15.SuspendLayout();
-            this.panel26.SuspendLayout();
-            this.panel27.SuspendLayout();
-            this.tabExpPout16.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvVpoExpList)).BeginInit();
-            this.panel28.SuspendLayout();
-            this.statusStrip7.SuspendLayout();
-            this.tabAbout17.SuspendLayout();
+            this.tabAbout15.SuspendLayout();
             this.panel29.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Logo)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.panel30.SuspendLayout();
-            this.tabBrand18.SuspendLayout();
+            this.tabBrand16.SuspendLayout();
             this.panel31.SuspendLayout();
             this.statusStrip10.SuspendLayout();
             this.toolStrip2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvBrandRec)).BeginInit();
             this.gbBrandInfo.SuspendLayout();
             this.panel32.SuspendLayout();
-            this.tabStore19.SuspendLayout();
+            this.tabStore17.SuspendLayout();
             this.panel33.SuspendLayout();
             this.statusStrip9.SuspendLayout();
             this.toolStrip3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvStoreRec)).BeginInit();
             this.gbStoreInfo.SuspendLayout();
             this.panel34.SuspendLayout();
-            this.tabCreatePullOut20.SuspendLayout();
+            this.tabCreatePullOut18.SuspendLayout();
             this.panel35.SuspendLayout();
             this.panel36.SuspendLayout();
-            this.tabExpPullOut21.SuspendLayout();
+            this.tabExpPullOut19.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtQtyPO)).BeginInit();
             this.panel38.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).BeginInit();
@@ -645,13 +617,11 @@
             this.tabControl.Controls.Add(this.tabPicPath12);
             this.tabControl.Controls.Add(this.tabCreateVDR13);
             this.tabControl.Controls.Add(this.tabExpVDRsmTemp14);
-            this.tabControl.Controls.Add(this.tabCreatePout15);
-            this.tabControl.Controls.Add(this.tabExpPout16);
-            this.tabControl.Controls.Add(this.tabAbout17);
-            this.tabControl.Controls.Add(this.tabBrand18);
-            this.tabControl.Controls.Add(this.tabStore19);
-            this.tabControl.Controls.Add(this.tabCreatePullOut20);
-            this.tabControl.Controls.Add(this.tabExpPullOut21);
+            this.tabControl.Controls.Add(this.tabAbout15);
+            this.tabControl.Controls.Add(this.tabBrand16);
+            this.tabControl.Controls.Add(this.tabStore17);
+            this.tabControl.Controls.Add(this.tabCreatePullOut18);
+            this.tabControl.Controls.Add(this.tabExpPullOut19);
             this.tabControl.Name = "tabControl";
             this.tabControl.SelectedIndex = 0;
             this.tabControl.TabStop = false;
@@ -870,6 +840,7 @@
             this.tabSkuMenu1.Controls.Add(this.panel1);
             resources.ApplyResources(this.tabSkuMenu1, "tabSkuMenu1");
             this.tabSkuMenu1.Name = "tabSkuMenu1";
+            this.tabSkuMenu1.Click += new System.EventHandler(this.tabSkuMenu1_Click);
             // 
             // panel1
             // 
@@ -1295,6 +1266,7 @@
             this.tabMenuSettings4.Controls.Add(this.panel6);
             resources.ApplyResources(this.tabMenuSettings4, "tabMenuSettings4");
             this.tabMenuSettings4.Name = "tabMenuSettings4";
+            this.tabMenuSettings4.Click += new System.EventHandler(this.tabMenuSettings4_Click);
             // 
             // panel6
             // 
@@ -2370,6 +2342,7 @@
             this.panel23.Controls.Add(this.btnVdrNext);
             this.panel23.Controls.Add(this.panel24);
             this.panel23.Name = "panel23";
+            this.panel23.Paint += new System.Windows.Forms.PaintEventHandler(this.panel23_Paint);
             // 
             // label46
             // 
@@ -2515,174 +2488,12 @@
             this.toolStripStatusLabel18.Name = "toolStripStatusLabel18";
             resources.ApplyResources(this.toolStripStatusLabel18, "toolStripStatusLabel18");
             // 
-            // tabCreatePout15
+            // tabAbout15
             // 
-            this.tabCreatePout15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.tabCreatePout15.Controls.Add(this.panel26);
-            resources.ApplyResources(this.tabCreatePout15, "tabCreatePout15");
-            this.tabCreatePout15.Name = "tabCreatePout15";
-            // 
-            // panel26
-            // 
-            resources.ApplyResources(this.panel26, "panel26");
-            this.panel26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel26.Controls.Add(this.label48);
-            this.panel26.Controls.Add(this.cboVpoBcodeBatch);
-            this.panel26.Controls.Add(this.btnVpoNext);
-            this.panel26.Controls.Add(this.panel27);
-            this.panel26.Name = "panel26";
-            // 
-            // label48
-            // 
-            resources.ApplyResources(this.label48, "label48");
-            this.label48.ForeColor = System.Drawing.Color.White;
-            this.label48.Name = "label48";
-            // 
-            // cboVpoBcodeBatch
-            // 
-            resources.ApplyResources(this.cboVpoBcodeBatch, "cboVpoBcodeBatch");
-            this.cboVpoBcodeBatch.FormattingEnabled = true;
-            this.cboVpoBcodeBatch.Name = "cboVpoBcodeBatch";
-            this.cboVpoBcodeBatch.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cboVpoBcodeBatch_KeyPress);
-            // 
-            // btnVpoNext
-            // 
-            this.btnVpoNext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            resources.ApplyResources(this.btnVpoNext, "btnVpoNext");
-            this.btnVpoNext.Name = "btnVpoNext";
-            this.btnVpoNext.UseVisualStyleBackColor = false;
-            this.btnVpoNext.Click += new System.EventHandler(this.btnVpoNext_Click);
-            // 
-            // panel27
-            // 
-            this.panel27.BackColor = System.Drawing.Color.White;
-            this.panel27.Controls.Add(this.label51);
-            resources.ApplyResources(this.panel27, "panel27");
-            this.panel27.Name = "panel27";
-            // 
-            // label51
-            // 
-            resources.ApplyResources(this.label51, "label51");
-            this.label51.ForeColor = System.Drawing.Color.Black;
-            this.label51.Name = "label51";
-            // 
-            // tabExpPout16
-            // 
-            this.tabExpPout16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.tabExpPout16.Controls.Add(this.dgvVpoExpList);
-            this.tabExpPout16.Controls.Add(this.btnVpoBack);
-            this.tabExpPout16.Controls.Add(this.panel28);
-            this.tabExpPout16.Controls.Add(this.btnVpoExp);
-            this.tabExpPout16.Controls.Add(this.lblVpoBcodeBatch);
-            this.tabExpPout16.Controls.Add(this.label54);
-            this.tabExpPout16.Controls.Add(this.statusStrip7);
-            resources.ApplyResources(this.tabExpPout16, "tabExpPout16");
-            this.tabExpPout16.Name = "tabExpPout16";
-            // 
-            // dgvVpoExpList
-            // 
-            this.dgvVpoExpList.AllowUserToAddRows = false;
-            this.dgvVpoExpList.AllowUserToDeleteRows = false;
-            resources.ApplyResources(this.dgvVpoExpList, "dgvVpoExpList");
-            this.dgvVpoExpList.BackgroundColor = System.Drawing.Color.White;
-            this.dgvVpoExpList.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
-            this.dgvVpoExpList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvVpoExpList.DefaultCellStyle = dataGridViewCellStyle7;
-            this.dgvVpoExpList.MultiSelect = false;
-            this.dgvVpoExpList.Name = "dgvVpoExpList";
-            this.dgvVpoExpList.ReadOnly = true;
-            this.dgvVpoExpList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvVpoExpList.ShowEditingIcon = false;
-            this.dgvVpoExpList.TabStop = false;
-            // 
-            // btnVpoBack
-            // 
-            resources.ApplyResources(this.btnVpoBack, "btnVpoBack");
-            this.btnVpoBack.BackColor = System.Drawing.Color.White;
-            this.btnVpoBack.Name = "btnVpoBack";
-            this.btnVpoBack.UseVisualStyleBackColor = false;
-            this.btnVpoBack.Click += new System.EventHandler(this.btnVpoBack_Click);
-            // 
-            // panel28
-            // 
-            this.panel28.BackColor = System.Drawing.Color.White;
-            this.panel28.Controls.Add(this.label52);
-            resources.ApplyResources(this.panel28, "panel28");
-            this.panel28.Name = "panel28";
-            // 
-            // label52
-            // 
-            resources.ApplyResources(this.label52, "label52");
-            this.label52.ForeColor = System.Drawing.Color.Black;
-            this.label52.Name = "label52";
-            // 
-            // btnVpoExp
-            // 
-            resources.ApplyResources(this.btnVpoExp, "btnVpoExp");
-            this.btnVpoExp.BackColor = System.Drawing.Color.White;
-            this.btnVpoExp.Name = "btnVpoExp";
-            this.btnVpoExp.UseVisualStyleBackColor = false;
-            this.btnVpoExp.Click += new System.EventHandler(this.btnVpoExp_Click);
-            // 
-            // lblVpoBcodeBatch
-            // 
-            resources.ApplyResources(this.lblVpoBcodeBatch, "lblVpoBcodeBatch");
-            this.lblVpoBcodeBatch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.lblVpoBcodeBatch.Name = "lblVpoBcodeBatch";
-            // 
-            // label54
-            // 
-            resources.ApplyResources(this.label54, "label54");
-            this.label54.ForeColor = System.Drawing.Color.White;
-            this.label54.Name = "label54";
-            // 
-            // statusStrip7
-            // 
-            this.statusStrip7.BackColor = System.Drawing.Color.White;
-            this.statusStrip7.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.statusStrip7.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripStatusLabel17,
-            this.toolStripStatusLabel19,
-            this.lblVpoRecnt,
-            this.toolStripStatusLabel21});
-            resources.ApplyResources(this.statusStrip7, "statusStrip7");
-            this.statusStrip7.Name = "statusStrip7";
-            // 
-            // toolStripStatusLabel17
-            // 
-            this.toolStripStatusLabel17.Name = "toolStripStatusLabel17";
-            resources.ApplyResources(this.toolStripStatusLabel17, "toolStripStatusLabel17");
-            // 
-            // toolStripStatusLabel19
-            // 
-            resources.ApplyResources(this.toolStripStatusLabel19, "toolStripStatusLabel19");
-            this.toolStripStatusLabel19.Name = "toolStripStatusLabel19";
-            // 
-            // lblVpoRecnt
-            // 
-            resources.ApplyResources(this.lblVpoRecnt, "lblVpoRecnt");
-            this.lblVpoRecnt.ForeColor = System.Drawing.Color.Blue;
-            this.lblVpoRecnt.Name = "lblVpoRecnt";
-            // 
-            // toolStripStatusLabel21
-            // 
-            this.toolStripStatusLabel21.Name = "toolStripStatusLabel21";
-            resources.ApplyResources(this.toolStripStatusLabel21, "toolStripStatusLabel21");
-            // 
-            // tabAbout17
-            // 
-            this.tabAbout17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.tabAbout17.Controls.Add(this.panel29);
-            resources.ApplyResources(this.tabAbout17, "tabAbout17");
-            this.tabAbout17.Name = "tabAbout17";
+            this.tabAbout15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.tabAbout15.Controls.Add(this.panel29);
+            resources.ApplyResources(this.tabAbout15, "tabAbout15");
+            this.tabAbout15.Name = "tabAbout15";
             // 
             // panel29
             // 
@@ -2818,14 +2629,14 @@
             this.label55.ForeColor = System.Drawing.Color.Black;
             this.label55.Name = "label55";
             // 
-            // tabBrand18
+            // tabBrand16
             // 
-            this.tabBrand18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.tabBrand18.Controls.Add(this.panel31);
-            this.tabBrand18.Controls.Add(this.btnStoreBack);
-            this.tabBrand18.Controls.Add(this.panel32);
-            resources.ApplyResources(this.tabBrand18, "tabBrand18");
-            this.tabBrand18.Name = "tabBrand18";
+            this.tabBrand16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.tabBrand16.Controls.Add(this.panel31);
+            this.tabBrand16.Controls.Add(this.btnStoreBack);
+            this.tabBrand16.Controls.Add(this.panel32);
+            resources.ApplyResources(this.tabBrand16, "tabBrand16");
+            this.tabBrand16.Name = "tabBrand16";
             // 
             // panel31
             // 
@@ -2988,14 +2799,14 @@
             this.dgvBrandRec.BackgroundColor = System.Drawing.Color.White;
             this.dgvBrandRec.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
             this.dgvBrandRec.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvBrandRec.DefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvBrandRec.DefaultCellStyle = dataGridViewCellStyle7;
             this.dgvBrandRec.MultiSelect = false;
             this.dgvBrandRec.Name = "dgvBrandRec";
             this.dgvBrandRec.ReadOnly = true;
@@ -3061,14 +2872,14 @@
             this.label71.ForeColor = System.Drawing.Color.Black;
             this.label71.Name = "label71";
             // 
-            // tabStore19
+            // tabStore17
             // 
-            this.tabStore19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.tabStore19.Controls.Add(this.panel33);
-            this.tabStore19.Controls.Add(this.btnStoreBackSettings);
-            this.tabStore19.Controls.Add(this.panel34);
-            resources.ApplyResources(this.tabStore19, "tabStore19");
-            this.tabStore19.Name = "tabStore19";
+            this.tabStore17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.tabStore17.Controls.Add(this.panel33);
+            this.tabStore17.Controls.Add(this.btnStoreBackSettings);
+            this.tabStore17.Controls.Add(this.panel34);
+            resources.ApplyResources(this.tabStore17, "tabStore17");
+            this.tabStore17.Name = "tabStore17";
             // 
             // panel33
             // 
@@ -3231,14 +3042,14 @@
             this.dgvStoreRec.BackgroundColor = System.Drawing.Color.White;
             this.dgvStoreRec.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
             this.dgvStoreRec.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvStoreRec.DefaultCellStyle = dataGridViewCellStyle9;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvStoreRec.DefaultCellStyle = dataGridViewCellStyle8;
             this.dgvStoreRec.MultiSelect = false;
             this.dgvStoreRec.Name = "dgvStoreRec";
             this.dgvStoreRec.ReadOnly = true;
@@ -3304,12 +3115,13 @@
             this.label70.ForeColor = System.Drawing.Color.Black;
             this.label70.Name = "label70";
             // 
-            // tabCreatePullOut20
+            // tabCreatePullOut18
             // 
-            this.tabCreatePullOut20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.tabCreatePullOut20.Controls.Add(this.panel35);
-            resources.ApplyResources(this.tabCreatePullOut20, "tabCreatePullOut20");
-            this.tabCreatePullOut20.Name = "tabCreatePullOut20";
+            this.tabCreatePullOut18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.tabCreatePullOut18.Controls.Add(this.panel35);
+            resources.ApplyResources(this.tabCreatePullOut18, "tabCreatePullOut18");
+            this.tabCreatePullOut18.Name = "tabCreatePullOut18";
+            this.tabCreatePullOut18.Click += new System.EventHandler(this.tabCreatePullOut20_Click);
             // 
             // panel35
             // 
@@ -3322,6 +3134,7 @@
             this.panel35.Controls.Add(this.btnPOnext);
             this.panel35.Controls.Add(this.panel36);
             this.panel35.Name = "panel35";
+            this.panel35.Paint += new System.Windows.Forms.PaintEventHandler(this.panel35_Paint);
             // 
             // label75
             // 
@@ -3362,20 +3175,20 @@
             this.label73.ForeColor = System.Drawing.Color.Black;
             this.label73.Name = "label73";
             // 
-            // tabExpPullOut21
+            // tabExpPullOut19
             // 
-            this.tabExpPullOut21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.tabExpPullOut21.Controls.Add(this.btnExpPOList);
-            this.tabExpPullOut21.Controls.Add(this.btnCancelPO);
-            this.tabExpPullOut21.Controls.Add(this.txtQtyPO);
-            this.tabExpPullOut21.Controls.Add(this.btnToPO);
-            this.tabExpPullOut21.Controls.Add(this.panel38);
-            this.tabExpPullOut21.Controls.Add(this.panel37);
-            this.tabExpPullOut21.Controls.Add(this.lblPullOutBatch);
-            this.tabExpPullOut21.Controls.Add(this.label76);
-            resources.ApplyResources(this.tabExpPullOut21, "tabExpPullOut21");
-            this.tabExpPullOut21.Name = "tabExpPullOut21";
-            this.tabExpPullOut21.Click += new System.EventHandler(this.tabExpPullOut21_Click);
+            this.tabExpPullOut19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.tabExpPullOut19.Controls.Add(this.btnExpPOList);
+            this.tabExpPullOut19.Controls.Add(this.btnCancelPO);
+            this.tabExpPullOut19.Controls.Add(this.txtQtyPO);
+            this.tabExpPullOut19.Controls.Add(this.btnToPO);
+            this.tabExpPullOut19.Controls.Add(this.panel38);
+            this.tabExpPullOut19.Controls.Add(this.panel37);
+            this.tabExpPullOut19.Controls.Add(this.lblPullOutBatch);
+            this.tabExpPullOut19.Controls.Add(this.label76);
+            resources.ApplyResources(this.tabExpPullOut19, "tabExpPullOut19");
+            this.tabExpPullOut19.Name = "tabExpPullOut19";
+            this.tabExpPullOut19.Click += new System.EventHandler(this.tabExpPullOut21_Click);
             // 
             // btnExpPOList
             // 
@@ -3549,14 +3362,14 @@
             this.dgvDeliveredRec.BackgroundColor = System.Drawing.Color.White;
             this.dgvDeliveredRec.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
             this.dgvDeliveredRec.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle10.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle10.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvDeliveredRec.DefaultCellStyle = dataGridViewCellStyle10;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvDeliveredRec.DefaultCellStyle = dataGridViewCellStyle9;
             this.dgvDeliveredRec.MultiSelect = false;
             this.dgvDeliveredRec.Name = "dgvDeliveredRec";
             this.dgvDeliveredRec.ReadOnly = true;
@@ -3617,14 +3430,14 @@
             this.dgvToPO.BackgroundColor = System.Drawing.Color.White;
             this.dgvToPO.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
             this.dgvToPO.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle11.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle11.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle11.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvToPO.DefaultCellStyle = dataGridViewCellStyle11;
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle10.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle10.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvToPO.DefaultCellStyle = dataGridViewCellStyle10;
             this.dgvToPO.MultiSelect = false;
             this.dgvToPO.Name = "dgvToPO";
             this.dgvToPO.ReadOnly = true;
@@ -3810,19 +3623,7 @@
             this.panel25.PerformLayout();
             this.statusStrip6.ResumeLayout(false);
             this.statusStrip6.PerformLayout();
-            this.tabCreatePout15.ResumeLayout(false);
-            this.panel26.ResumeLayout(false);
-            this.panel26.PerformLayout();
-            this.panel27.ResumeLayout(false);
-            this.panel27.PerformLayout();
-            this.tabExpPout16.ResumeLayout(false);
-            this.tabExpPout16.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvVpoExpList)).EndInit();
-            this.panel28.ResumeLayout(false);
-            this.panel28.PerformLayout();
-            this.statusStrip7.ResumeLayout(false);
-            this.statusStrip7.PerformLayout();
-            this.tabAbout17.ResumeLayout(false);
+            this.tabAbout15.ResumeLayout(false);
             this.panel29.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -3831,7 +3632,7 @@
             this.groupBox2.PerformLayout();
             this.panel30.ResumeLayout(false);
             this.panel30.PerformLayout();
-            this.tabBrand18.ResumeLayout(false);
+            this.tabBrand16.ResumeLayout(false);
             this.panel31.ResumeLayout(false);
             this.panel31.PerformLayout();
             this.statusStrip10.ResumeLayout(false);
@@ -3843,7 +3644,7 @@
             this.gbBrandInfo.PerformLayout();
             this.panel32.ResumeLayout(false);
             this.panel32.PerformLayout();
-            this.tabStore19.ResumeLayout(false);
+            this.tabStore17.ResumeLayout(false);
             this.panel33.ResumeLayout(false);
             this.panel33.PerformLayout();
             this.statusStrip9.ResumeLayout(false);
@@ -3855,13 +3656,13 @@
             this.gbStoreInfo.PerformLayout();
             this.panel34.ResumeLayout(false);
             this.panel34.PerformLayout();
-            this.tabCreatePullOut20.ResumeLayout(false);
+            this.tabCreatePullOut18.ResumeLayout(false);
             this.panel35.ResumeLayout(false);
             this.panel35.PerformLayout();
             this.panel36.ResumeLayout(false);
             this.panel36.PerformLayout();
-            this.tabExpPullOut21.ResumeLayout(false);
-            this.tabExpPullOut21.PerformLayout();
+            this.tabExpPullOut19.ResumeLayout(false);
+            this.tabExpPullOut19.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtQtyPO)).EndInit();
             this.panel38.ResumeLayout(false);
             this.splitContainer2.Panel1.ResumeLayout(false);
@@ -4122,28 +3923,8 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel16;
         private System.Windows.Forms.ToolStripStatusLabel lblVdrExpRecnt;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel18;
-        private System.Windows.Forms.TabPage tabCreatePout15;
-        private System.Windows.Forms.Panel panel26;
-        private System.Windows.Forms.Label label48;
-        private System.Windows.Forms.ComboBox cboVpoBcodeBatch;
-        private System.Windows.Forms.Button btnVpoNext;
-        private System.Windows.Forms.Panel panel27;
-        private System.Windows.Forms.Label label51;
-        private System.Windows.Forms.TabPage tabExpPout16;
-        private System.Windows.Forms.DataGridView dgvVpoExpList;
-        private System.Windows.Forms.Button btnVpoBack;
-        private System.Windows.Forms.Panel panel28;
-        private System.Windows.Forms.Label label52;
-        private System.Windows.Forms.Button btnVpoExp;
-        private System.Windows.Forms.Label lblVpoBcodeBatch;
-        private System.Windows.Forms.Label label54;
-        private System.Windows.Forms.StatusStrip statusStrip7;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel17;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel19;
-        private System.Windows.Forms.ToolStripStatusLabel lblVpoRecnt;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel21;
         private System.Windows.Forms.Button btnAbout;
-        private System.Windows.Forms.TabPage tabAbout17;
+        private System.Windows.Forms.TabPage tabAbout15;
         private System.Windows.Forms.Panel panel29;
         private System.Windows.Forms.Panel panel30;
         private System.Windows.Forms.Label label55;
@@ -4162,8 +3943,8 @@
         private System.Windows.Forms.Label label64;
         private System.Windows.Forms.Label label53;
         private System.Windows.Forms.Label label65;
-        private System.Windows.Forms.TabPage tabBrand18;
-        private System.Windows.Forms.TabPage tabStore19;
+        private System.Windows.Forms.TabPage tabBrand16;
+        private System.Windows.Forms.TabPage tabStore17;
         private System.Windows.Forms.StatusStrip statusStrip8;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel20;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel22;
@@ -4231,14 +4012,14 @@
         private System.Windows.Forms.Button btnStoreBackSettings;
         private System.Windows.Forms.Panel panel34;
         private System.Windows.Forms.Label label70;
-        private System.Windows.Forms.TabPage tabCreatePullOut20;
+        private System.Windows.Forms.TabPage tabCreatePullOut18;
         private System.Windows.Forms.Panel panel35;
         private System.Windows.Forms.Label label72;
         private System.Windows.Forms.Button btnPOnext;
         private System.Windows.Forms.Panel panel36;
         private System.Windows.Forms.Label label73;
         private System.Windows.Forms.TextBox txtPullOutBatch;
-        private System.Windows.Forms.TabPage tabExpPullOut21;
+        private System.Windows.Forms.TabPage tabExpPullOut19;
         private System.Windows.Forms.Panel panel37;
         private System.Windows.Forms.Label label74;
         private System.Windows.Forms.Label lblPullOutBatch;

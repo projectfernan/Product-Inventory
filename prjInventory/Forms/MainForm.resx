@@ -1400,7 +1400,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSKUrec.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 215</value>
+    <value>144, 213</value>
   </data>
   <data name="btnSKUrec.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -1523,7 +1523,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnUplSKU.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 157</value>
+    <value>144, 155</value>
   </data>
   <data name="btnUplSKU.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -1576,7 +1576,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnCreateSKU.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 99</value>
+    <value>144, 97</value>
   </data>
   <data name="btnCreateSKU.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -1600,7 +1600,7 @@
     <value>3</value>
   </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>244, 114</value>
+    <value>238, 114</value>
   </data>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>639, 352</value>
@@ -1673,7 +1673,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnBack2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>986, 498</value>
+    <value>986, 518</value>
   </data>
   <data name="btnBack2.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -2302,7 +2302,7 @@
     <value>13</value>
   </data>
   <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>266, 90</value>
+    <value>288, 100</value>
   </data>
   <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 338</value>
@@ -2329,7 +2329,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabCreateSmSku2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabCreateSmSku2.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2393,7 +2393,7 @@
     <value> </value>
   </data>
   <data name="statusStrip2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 532</value>
+    <value>3, 552</value>
   </data>
   <data name="statusStrip2.Size" type="System.Drawing.Size, System.Drawing">
     <value>1104, 29</value>
@@ -2436,7 +2436,7 @@
 </value>
   </data>
   <data name="btnSUSrefresh.Location" type="System.Drawing.Point, System.Drawing">
-    <value>556, 57</value>
+    <value>561, 57</value>
   </data>
   <data name="btnSUSrefresh.Size" type="System.Drawing.Size, System.Drawing">
     <value>47, 36</value>
@@ -2483,7 +2483,7 @@
 </value>
   </data>
   <data name="btnSUSfind.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1038, 58</value>
+    <value>1043, 58</value>
   </data>
   <data name="btnSUSfind.Size" type="System.Drawing.Size, System.Drawing">
     <value>47, 36</value>
@@ -2513,7 +2513,7 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="txtSUSkeyword.Location" type="System.Drawing.Point, System.Drawing">
-    <value>904, 64</value>
+    <value>909, 64</value>
   </data>
   <data name="txtSUSkeyword.Size" type="System.Drawing.Size, System.Drawing">
     <value>123, 24</value>
@@ -2543,7 +2543,7 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
-    <value>824, 67</value>
+    <value>829, 67</value>
   </data>
   <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
     <value>74, 18</value>
@@ -2612,7 +2612,7 @@
     <value>Batch</value>
   </data>
   <data name="cboSusCateg.Location" type="System.Drawing.Point, System.Drawing">
-    <value>694, 64</value>
+    <value>699, 64</value>
   </data>
   <data name="cboSusCateg.Size" type="System.Drawing.Size, System.Drawing">
     <value>123, 24</value>
@@ -2645,7 +2645,7 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>611, 65</value>
+    <value>616, 65</value>
   </data>
   <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
     <value>76, 18</value>
@@ -2675,7 +2675,7 @@
     <value>18, 110</value>
   </data>
   <data name="dgvTblProd.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1069, 350</value>
+    <value>1072, 370</value>
   </data>
   <data name="dgvTblProd.TabIndex" type="System.Int32, mscorlib">
     <value>6768</value>
@@ -2713,7 +2713,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnUPCS.Location" type="System.Drawing.Point, System.Drawing">
-    <value>389, 477</value>
+    <value>389, 497</value>
   </data>
   <data name="btnUPCS.Size" type="System.Drawing.Size, System.Drawing">
     <value>169, 36</value>
@@ -2765,7 +2765,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSMSkuBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>995, 477</value>
+    <value>999, 497</value>
   </data>
   <data name="btnSMSkuBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -2817,7 +2817,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnRemove.Location" type="System.Drawing.Point, System.Drawing">
-    <value>119, 477</value>
+    <value>119, 497</value>
   </data>
   <data name="btnRemove.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -2946,7 +2946,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnExpSMTemp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>222, 477</value>
+    <value>222, 497</value>
   </data>
   <data name="btnExpSMTemp.Size" type="System.Drawing.Size, System.Drawing">
     <value>156, 36</value>
@@ -2996,7 +2996,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnAddItem.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 477</value>
+    <value>16, 497</value>
   </data>
   <data name="btnAddItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -3089,7 +3089,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabExpSmSkuApp3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabExpSmSkuApp3.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -3142,7 +3142,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnStoreSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 252</value>
+    <value>144, 250</value>
   </data>
   <data name="btnStoreSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3191,7 +3191,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnBrandSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 195</value>
+    <value>144, 193</value>
   </data>
   <data name="btnBrandSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3249,7 +3249,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnImagePath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 310</value>
+    <value>144, 308</value>
   </data>
   <data name="btnImagePath.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3394,7 +3394,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSysAccSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 136</value>
+    <value>144, 134</value>
   </data>
   <data name="btnSysAccSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3449,7 +3449,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnDbSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 78</value>
+    <value>144, 76</value>
   </data>
   <data name="btnDbSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -3473,7 +3473,7 @@
     <value>5</value>
   </data>
   <data name="panel6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 69</value>
+    <value>235, 79</value>
   </data>
   <data name="panel6.Size" type="System.Drawing.Size, System.Drawing">
     <value>639, 422</value>
@@ -3500,7 +3500,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabMenuSettings4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabMenuSettings4.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -3546,7 +3546,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>998, 508</value>
+    <value>998, 527</value>
   </data>
   <data name="button8.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -3599,7 +3599,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnTest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 298</value>
+    <value>190, 294</value>
   </data>
   <data name="btnTest.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -3647,7 +3647,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>302, 298</value>
+    <value>298, 294</value>
   </data>
   <data name="btnSave.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -4025,7 +4025,7 @@
     <value>12</value>
   </data>
   <data name="panel8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>299, 75</value>
+    <value>299, 85</value>
   </data>
   <data name="panel8.Size" type="System.Drawing.Size, System.Drawing">
     <value>513, 395</value>
@@ -4052,7 +4052,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabDbSettings5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabDbSettings5.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -4119,7 +4119,7 @@
     <value> </value>
   </data>
   <data name="statusStrip8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 403</value>
+    <value>0, 423</value>
   </data>
   <data name="statusStrip8.Size" type="System.Drawing.Size, System.Drawing">
     <value>1075, 29</value>
@@ -4160,26 +4160,26 @@
   <data name="btnAddAcc.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         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
-        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
+        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
 </value>
   </data>
   <data name="btnAddAcc.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
@@ -4374,7 +4374,7 @@
     <value>489, 77</value>
   </data>
   <data name="dgvSysAcc.Size" type="System.Drawing.Size, System.Drawing">
-    <value>565, 302</value>
+    <value>565, 322</value>
   </data>
   <data name="dgvSysAcc.TabIndex" type="System.Int32, mscorlib">
     <value>6767</value>
@@ -4710,7 +4710,7 @@
     <value>19, 58</value>
   </data>
   <data name="panel11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1075, 432</value>
+    <value>1075, 452</value>
   </data>
   <data name="panel11.TabIndex" type="System.Int32, mscorlib">
     <value>929</value>
@@ -4753,7 +4753,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnBack6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1002, 508</value>
+    <value>1002, 528</value>
   </data>
   <data name="btnBack6.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -4866,7 +4866,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabAccSettings6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabAccSettings6.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -4912,7 +4912,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnSKUplBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>996, 505</value>
+    <value>996, 525</value>
   </data>
   <data name="btnSKUplBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -5120,7 +5120,7 @@
     <value>3</value>
   </data>
   <data name="panel12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 150</value>
+    <value>286, 160</value>
   </data>
   <data name="panel12.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 237</value>
@@ -5147,7 +5147,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabUplSku7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabUplSku7.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -5205,7 +5205,7 @@
     <value>0</value>
   </data>
   <data name="statusStrip3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 532</value>
+    <value>3, 552</value>
   </data>
   <data name="statusStrip3.Size" type="System.Drawing.Size, System.Drawing">
     <value>1104, 29</value>
@@ -5616,7 +5616,7 @@
     <value>21, 114</value>
   </data>
   <data name="dgvSKUrec.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1065, 393</value>
+    <value>1067, 413</value>
   </data>
   <data name="dgvSKUrec.TabIndex" type="System.Int32, mscorlib">
     <value>6769</value>
@@ -5640,7 +5640,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabSkuRec8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabSkuRec8.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -5761,7 +5761,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnBarcodeReg.Location" type="System.Drawing.Point, System.Drawing">
-    <value>147, 154</value>
+    <value>145, 152</value>
   </data>
   <data name="btnBarcodeReg.Size" type="System.Drawing.Size, System.Drawing">
     <value>332, 52</value>
@@ -5785,7 +5785,7 @@
     <value>1</value>
   </data>
   <data name="panel15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>260, 93</value>
+    <value>236, 103</value>
   </data>
   <data name="panel15.Size" type="System.Drawing.Size, System.Drawing">
     <value>639, 352</value>
@@ -5812,7 +5812,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabBcodeMenu9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabBcodeMenu9.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -5858,7 +5858,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnTabBcodeRegBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>998, 508</value>
+    <value>998, 527</value>
   </data>
   <data name="btnTabBcodeRegBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -6267,7 +6267,7 @@
     <value>10</value>
   </data>
   <data name="panel17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>303, 88</value>
+    <value>288, 100</value>
   </data>
   <data name="panel17.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 338</value>
@@ -6294,7 +6294,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabCreateBcode10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabCreateBcode10.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -6321,7 +6321,7 @@
     <value>20, 63</value>
   </data>
   <data name="dgvBarcodeReg.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1065, 401</value>
+    <value>1071, 421</value>
   </data>
   <data name="dgvBarcodeReg.TabIndex" type="System.Int32, mscorlib">
     <value>6793</value>
@@ -6364,7 +6364,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnRegBcodeBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>994, 479</value>
+    <value>1000, 499</value>
   </data>
   <data name="btnRegBcodeBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -6491,7 +6491,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnExpRegBcode.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 480</value>
+    <value>19, 500</value>
   </data>
   <data name="btnExpRegBcode.Size" type="System.Drawing.Size, System.Drawing">
     <value>232, 36</value>
@@ -6621,7 +6621,7 @@
     <value> </value>
   </data>
   <data name="statusStrip4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 532</value>
+    <value>3, 552</value>
   </data>
   <data name="statusStrip4.Size" type="System.Drawing.Size, System.Drawing">
     <value>1104, 29</value>
@@ -6651,7 +6651,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabExpBarcode11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabExpBarcode11.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -6697,7 +6697,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnImgPathBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>998, 508</value>
+    <value>998, 528</value>
   </data>
   <data name="btnImgPathBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -7011,7 +7011,7 @@
     <value>6</value>
   </data>
   <data name="panel21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>307, 136</value>
+    <value>293, 146</value>
   </data>
   <data name="panel21.Size" type="System.Drawing.Size, System.Drawing">
     <value>526, 251</value>
@@ -7038,7 +7038,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPicPath12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabPicPath12.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -7243,7 +7243,7 @@
     <value>3</value>
   </data>
   <data name="panel23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>319, 138</value>
+    <value>288, 148</value>
   </data>
   <data name="panel23.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 263</value>
@@ -7270,7 +7270,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabCreateVDR13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabCreateVDR13.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -7297,7 +7297,7 @@
     <value>18, 109</value>
   </data>
   <data name="dgvVdrExpList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1083, 360</value>
+    <value>1075, 380</value>
   </data>
   <data name="dgvVdrExpList.TabIndex" type="System.Int32, mscorlib">
     <value>6800</value>
@@ -7340,7 +7340,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnVdrExpBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1010, 481</value>
+    <value>1002, 501</value>
   </data>
   <data name="btnVdrExpBack.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -7469,7 +7469,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnVdrExpTemp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 481</value>
+    <value>18, 501</value>
   </data>
   <data name="btnVdrExpTemp.Size" type="System.Drawing.Size, System.Drawing">
     <value>184, 36</value>
@@ -7599,7 +7599,7 @@
     <value> </value>
   </data>
   <data name="statusStrip6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 532</value>
+    <value>3, 552</value>
   </data>
   <data name="statusStrip6.Size" type="System.Drawing.Size, System.Drawing">
     <value>1104, 29</value>
@@ -7629,7 +7629,7 @@
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabExpVDRsmTemp14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
+    <value>1110, 584</value>
   </data>
   <data name="tabExpVDRsmTemp14.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -7648,601 +7648,6 @@
   </data>
   <data name="&gt;&gt;tabExpVDRsmTemp14.ZOrder" xml:space="preserve">
     <value>14</value>
-  </data>
-  <data name="panel26.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="label48.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label48.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11.25pt</value>
-  </data>
-  <data name="label48.Location" type="System.Drawing.Point, System.Drawing">
-    <value>34, 125</value>
-  </data>
-  <data name="label48.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 18</value>
-  </data>
-  <data name="label48.TabIndex" type="System.Int32, mscorlib">
-    <value>921</value>
-  </data>
-  <data name="label48.Text" xml:space="preserve">
-    <value>Delivered Barcoded Batch :</value>
-  </data>
-  <data name="&gt;&gt;label48.Name" xml:space="preserve">
-    <value>label48</value>
-  </data>
-  <data name="&gt;&gt;label48.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label48.Parent" xml:space="preserve">
-    <value>panel26</value>
-  </data>
-  <data name="&gt;&gt;label48.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="cboVpoBcodeBatch.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
-  </data>
-  <data name="cboVpoBcodeBatch.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="cboVpoBcodeBatch.Location" type="System.Drawing.Point, System.Drawing">
-    <value>227, 124</value>
-  </data>
-  <data name="cboVpoBcodeBatch.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 24</value>
-  </data>
-  <data name="cboVpoBcodeBatch.TabIndex" type="System.Int32, mscorlib">
-    <value>902</value>
-  </data>
-  <data name="&gt;&gt;cboVpoBcodeBatch.Name" xml:space="preserve">
-    <value>cboVpoBcodeBatch</value>
-  </data>
-  <data name="&gt;&gt;cboVpoBcodeBatch.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;cboVpoBcodeBatch.Parent" xml:space="preserve">
-    <value>panel26</value>
-  </data>
-  <data name="&gt;&gt;cboVpoBcodeBatch.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnVpoNext.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
-  </data>
-  <data name="btnVpoNext.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt</value>
-  </data>
-  <data name="btnVpoNext.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAaJJREFUSEvd
-        lM9OwkAQxhuNPkrbxKMPosF/j+BLeOAogproidCaGAmGXrr16MnEi/HvQYGigL6CwausM2VwaTt1wSNf
-        8iXN9JvfNrvbMWZb3pK3WDHFlmsGNccSIfiLHGLNtfxNzFB8Orm2v+ZYQRdgUuNOxQ5y1KaXZ3jz8HUl
-        BqRzMW/k5wiTrX/CyUGBMLyG28I1CilyV2w9ZdNfJVxceFgQ6KQawNc7T3LwPZAPR63UO8Y99uDxtjDh
-        yM1aT450f9hkM3EHG4RVcmxxzofBtpCN6uSLVCxRJaySY/mvXPjXiUXuDv5cJCSsEhT7iVDayUX2G3wO
-        WIRVwmIixPrxOCS8lM8nHTYD/iSsEhTbiVDK4/CX0y6bQbuWaBFWieYN24Aeh7fq79F2cbmh/TPCKuHg
-        4sNxeFj/0MCjW7ROWKXycnnBMcUb13Bbagzhnh6OAzJzwuJU5JuEvNy+mQCOX3+xQjheEComm6bwLmGy
-        hSMX9nCPadY4KEw0rkfCqZh1JjFDRrstWYoOHgYXzha82wDEn7GPz1jD24IZis+kDOMHNmBVDDPSBLgA
-        AAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="btnVpoNext.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnVpoNext.Location" type="System.Drawing.Point, System.Drawing">
-    <value>404, 170</value>
-  </data>
-  <data name="btnVpoNext.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 36</value>
-  </data>
-  <data name="btnVpoNext.TabIndex" type="System.Int32, mscorlib">
-    <value>904</value>
-  </data>
-  <data name="btnVpoNext.Text" xml:space="preserve">
-    <value>Next</value>
-  </data>
-  <data name="btnVpoNext.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="&gt;&gt;btnVpoNext.Name" xml:space="preserve">
-    <value>btnVpoNext</value>
-  </data>
-  <data name="&gt;&gt;btnVpoNext.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnVpoNext.Parent" xml:space="preserve">
-    <value>panel26</value>
-  </data>
-  <data name="&gt;&gt;btnVpoNext.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="label51.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="label51.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label51.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11.25pt, style=Bold</value>
-  </data>
-  <data name="label51.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAeRJREFUOE9j
-        GAUkg//bApT/b/ed/X+bTxxEYIdPNk683dcUrAgP+L/Ndw1Q3X8g/vt/q5cEA5SDA/s1QPVhgP8NDCwf
-        sxhU/iy1nAx0HUj9g//7HThINvBDNoPR+1yGKe9zGO7czBe9c6ZQ6eXrPPbHb4o5c5OrO82IMvBTNoMw
-        0JA8oCFngHjj+2wG/6zqlvCE2u7/IJxdXX97RnnIiaTajucMvxdb/MeFv09SX/kul2El0JALH3IZSl9l
-        MUiALIgt6eYGGvQIauDf+NqeX0D6R0JtVwLD1y75/7jw50ax42/zGKxAhiCDhNqe6VDDQHh5fG33OiB+
-        BgxZRpLDMKt6qixQ8z+oYUDXdWhDpSAAu0EwjGlgXF13Osx1ibU9P+JrurIbGhpYoNKkG5hQ190BMiy+
-        rrsNGGaXIIZ3XYqqaBcEK8BuEAxjNfAgMAzvg8MLiIHeXww09GdiZZsoWAF2g2AYYWBo6CrmxNruiWDX
-        1XaVgcTSGhq4gPw3CTXdC8CKQAC7QTAMMRCUTBJruzYCNf8DeRniOgaGxJquTLCXG7oMQHwwwG4QDEMM
-        BLpsJVDjj/i6nmiwJigAip0C4r1QLgSANOHGPg4gNfHVPXbAxGsM1oAEgBHjnVDTpQrlDgnAwAAAJY0I
-        GcV8jcsAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="label51.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="label51.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 9</value>
-  </data>
-  <data name="label51.Size" type="System.Drawing.Size, System.Drawing">
-    <value>306, 18</value>
-  </data>
-  <data name="label51.TabIndex" type="System.Int32, mscorlib">
-    <value>656</value>
-  </data>
-  <data name="label51.Text" xml:space="preserve">
-    <value>     Create Vendor's Pull Out Application</value>
-  </data>
-  <data name="label51.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="&gt;&gt;label51.Name" xml:space="preserve">
-    <value>label51</value>
-  </data>
-  <data name="&gt;&gt;label51.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label51.Parent" xml:space="preserve">
-    <value>panel27</value>
-  </data>
-  <data name="&gt;&gt;label51.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="panel27.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="panel27.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="panel27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>534, 37</value>
-  </data>
-  <data name="panel27.TabIndex" type="System.Int32, mscorlib">
-    <value>899</value>
-  </data>
-  <data name="&gt;&gt;panel27.Name" xml:space="preserve">
-    <value>panel27</value>
-  </data>
-  <data name="&gt;&gt;panel27.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel27.Parent" xml:space="preserve">
-    <value>panel26</value>
-  </data>
-  <data name="&gt;&gt;panel27.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="panel26.Location" type="System.Drawing.Point, System.Drawing">
-    <value>304, 162</value>
-  </data>
-  <data name="panel26.Size" type="System.Drawing.Size, System.Drawing">
-    <value>536, 263</value>
-  </data>
-  <data name="panel26.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;panel26.Name" xml:space="preserve">
-    <value>panel26</value>
-  </data>
-  <data name="&gt;&gt;panel26.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel26.Parent" xml:space="preserve">
-    <value>tabCreatePout15</value>
-  </data>
-  <data name="&gt;&gt;panel26.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="tabCreatePout15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
-  </data>
-  <data name="tabCreatePout15.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="tabCreatePout15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
-  </data>
-  <data name="tabCreatePout15.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="tabCreatePout15.Text" xml:space="preserve">
-    <value>tabCreatePOut 15</value>
-  </data>
-  <data name="&gt;&gt;tabCreatePout15.Name" xml:space="preserve">
-    <value>tabCreatePout15</value>
-  </data>
-  <data name="&gt;&gt;tabCreatePout15.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabCreatePout15.Parent" xml:space="preserve">
-    <value>tabControl</value>
-  </data>
-  <data name="&gt;&gt;tabCreatePout15.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="dgvVpoExpList.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="dgvVpoExpList.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 110</value>
-  </data>
-  <data name="dgvVpoExpList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>868, 391</value>
-  </data>
-  <data name="dgvVpoExpList.TabIndex" type="System.Int32, mscorlib">
-    <value>6807</value>
-  </data>
-  <data name="&gt;&gt;dgvVpoExpList.Name" xml:space="preserve">
-    <value>dgvVpoExpList</value>
-  </data>
-  <data name="&gt;&gt;dgvVpoExpList.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;dgvVpoExpList.Parent" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;dgvVpoExpList.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnVpoBack.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Right</value>
-  </data>
-  <data name="btnVpoBack.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
-  </data>
-  <data name="btnVpoBack.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt</value>
-  </data>
-  <data name="btnVpoBack.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAZlJREFUSEvd
-        lM9Og0AQxolGH4Ul8eiDaPx78e5r9Gitt8ZDBWKijRougPHk2YMXmxg1YKWtr2DwjjMwdPkzuOKxX/JL
-        yPLNN+3uMtpiy1lzVk3d27d1/8oSXgh8EyGu2cLdQw/Z28k23G1L+BMISxREpuFvUZlajuYsw687YYJU
-        9DpaZ4limvXPcMLvUgyvbFu4wjJ3Bw/seorublJcWXhYYIhqBRVG/TBBPZ+N2ffAlD14vC2MuUQejhqd
-        hqwnw9+lWCnL8K55c0Yx/OU8Yj05pvCGFCtlCXfMmZFi+OvFhPVUCClWChbjiimlGB46nwn805qHIaZY
-        KVysmNKw4GZG8bDv0Kzm4fmiWClYfK+YMqDJ23BKLX69PXNs4QUUK0Xzhi1o38S9pFgpHFy8mWjRBG7R
-        DsVKDdYHK5bufXAFcwpNnvoB74EB2ThhcSryRQWgyf3hI/8OMMXtBsXxAlOvWtSCI4ppFo5c2MNjpliB
-        3/3TuM6FU1F5Jgh4lNvSpPTgYXDhbMG7DYH4Mcb4jGt4W9BD9oWUpv0AGKNVigdtdgYAAAAASUVORK5C
-        YII=
-</value>
-  </data>
-  <data name="btnVpoBack.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnVpoBack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>794, 519</value>
-  </data>
-  <data name="btnVpoBack.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 36</value>
-  </data>
-  <data name="btnVpoBack.TabIndex" type="System.Int32, mscorlib">
-    <value>6806</value>
-  </data>
-  <data name="btnVpoBack.Text" xml:space="preserve">
-    <value>Back</value>
-  </data>
-  <data name="btnVpoBack.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="&gt;&gt;btnVpoBack.Name" xml:space="preserve">
-    <value>btnVpoBack</value>
-  </data>
-  <data name="&gt;&gt;btnVpoBack.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnVpoBack.Parent" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;btnVpoBack.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="label52.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="label52.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label52.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11.25pt, style=Bold</value>
-  </data>
-  <data name="label52.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAeRJREFUOE9j
-        GAUkg//bApT/b/ed/X+bTxxEYIdPNk683dcUrAgP+L/Ndw1Q3X8g/vt/q5cEA5SDA/s1QPVhgP8NDCwf
-        sxhU/iy1nAx0HUj9g//7HThINvBDNoPR+1yGKe9zGO7czBe9c6ZQ6eXrPPbHb4o5c5OrO82IMvBTNoMw
-        0JA8oCFngHjj+2wG/6zqlvCE2u7/IJxdXX97RnnIiaTajucMvxdb/MeFv09SX/kul2El0JALH3IZSl9l
-        MUiALIgt6eYGGvQIauDf+NqeX0D6R0JtVwLD1y75/7jw50ax42/zGKxAhiCDhNqe6VDDQHh5fG33OiB+
-        BgxZRpLDMKt6qixQ8z+oYUDXdWhDpSAAu0EwjGlgXF13Osx1ibU9P+JrurIbGhpYoNKkG5hQ190BMiy+
-        rrsNGGaXIIZ3XYqqaBcEK8BuEAxjNfAgMAzvg8MLiIHeXww09GdiZZsoWAF2g2AYYWBo6CrmxNruiWDX
-        1XaVgcTSGhq4gPw3CTXdC8CKQAC7QTAMMRCUTBJruzYCNf8DeRniOgaGxJquTLCXG7oMQHwwwG4QDEMM
-        BLpsJVDjj/i6nmiwJigAip0C4r1QLgSANOHGPg4gNfHVPXbAxGsM1oAEgBHjnVDTpQrlDgnAwAAAJY0I
-        GcV8jcsAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="label52.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="label52.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 9</value>
-  </data>
-  <data name="label52.Size" type="System.Drawing.Size, System.Drawing">
-    <value>306, 18</value>
-  </data>
-  <data name="label52.TabIndex" type="System.Int32, mscorlib">
-    <value>656</value>
-  </data>
-  <data name="label52.Text" xml:space="preserve">
-    <value>     Create Vendor's Pull Out Application</value>
-  </data>
-  <data name="label52.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="&gt;&gt;label52.Name" xml:space="preserve">
-    <value>label52</value>
-  </data>
-  <data name="&gt;&gt;label52.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label52.Parent" xml:space="preserve">
-    <value>panel28</value>
-  </data>
-  <data name="&gt;&gt;label52.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="panel28.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="panel28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 3</value>
-  </data>
-  <data name="panel28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1104, 37</value>
-  </data>
-  <data name="panel28.TabIndex" type="System.Int32, mscorlib">
-    <value>6805</value>
-  </data>
-  <data name="&gt;&gt;panel28.Name" xml:space="preserve">
-    <value>panel28</value>
-  </data>
-  <data name="&gt;&gt;panel28.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel28.Parent" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;panel28.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="btnVpoExp.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Left</value>
-  </data>
-  <data name="btnVpoExp.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
-  </data>
-  <data name="btnVpoExp.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9pt</value>
-  </data>
-  <data name="btnVpoExp.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAiBJREFUSEtj
-        oDvgLbIoJxYLFFgoQLURD3iKLP4Tgx0mxPwXKbN5xF9oqgTVShzAZhg2XLKh4f/i0wv+i5bZkmYJNsOw
-        YZAFd96eIN0SbIZhwzALSLYEm2HYMLIFMEtEymwfQI3BDbAZRgqGGoMboGtQrvf+X7tl6v+o+RVwMave
-        WLCYaVcUiloQhhqDG6Br4C22/H/k7vn/33///K/e6Afmn3t8/f+jdy/+i1U4oqgFYagxuAG6BhC27o37
-        /+fv3/8zj6z+n7yk/j8IhM4twVAHwlBjcANsmkB43vH1/3/++fX/yYeX/zddOoBVDQhDjcENsGkCYfPu
-        aLDLQcBxYgpWNSAMNQY3wKYJhNdf3Pv/2cfX4LDfeuUQVjUgDDUGN8CmKXh2EdjlOava/6cvbwKzkVOV
-        ZK3Nf9UOezCGGoMbIBsMwhKVTv8fv3/x//arh/8FSqz/8xVb/b/09Nb/50DfSFe7gNVodDr8d+73++9S
-        G/rfLSqlwSUmxQFqHCZAt8B5Uur/vr2L/rtPycAQc5mcBuaDLAAZ7hqVAsYgS6DGYQKYIaRgmlngvMAd
-        jmligdUMl/8uZRFwgzFwdOoMqLEIgM0gXFi4wuq//Wyg67NiMQwH+uKYp2cuO9RYBMBmED4sXWfz32mG
-        53/XhCRkC946xWVIQ41EBdxFFh2kYo0u+01mzT6XXWOS/wIN/+Uek2ILNY66ABgsaSAM5QIBAwMAr5m5
-        He+poKMAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="btnVpoExp.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnVpoExp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 519</value>
-  </data>
-  <data name="btnVpoExp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 36</value>
-  </data>
-  <data name="btnVpoExp.TabIndex" type="System.Int32, mscorlib">
-    <value>6804</value>
-  </data>
-  <data name="btnVpoExp.Text" xml:space="preserve">
-    <value>Export SM VPO Template</value>
-  </data>
-  <data name="btnVpoExp.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
-  </data>
-  <data name="&gt;&gt;btnVpoExp.Name" xml:space="preserve">
-    <value>btnVpoExp</value>
-  </data>
-  <data name="&gt;&gt;btnVpoExp.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnVpoExp.Parent" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;btnVpoExp.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="lblVpoBcodeBatch.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblVpoBcodeBatch.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11.25pt, style=Bold</value>
-  </data>
-  <data name="lblVpoBcodeBatch.Location" type="System.Drawing.Point, System.Drawing">
-    <value>205, 65</value>
-  </data>
-  <data name="lblVpoBcodeBatch.Size" type="System.Drawing.Size, System.Drawing">
-    <value>26, 18</value>
-  </data>
-  <data name="lblVpoBcodeBatch.TabIndex" type="System.Int32, mscorlib">
-    <value>6803</value>
-  </data>
-  <data name="lblVpoBcodeBatch.Text" xml:space="preserve">
-    <value>---</value>
-  </data>
-  <data name="&gt;&gt;lblVpoBcodeBatch.Name" xml:space="preserve">
-    <value>lblVpoBcodeBatch</value>
-  </data>
-  <data name="&gt;&gt;lblVpoBcodeBatch.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblVpoBcodeBatch.Parent" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;lblVpoBcodeBatch.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="label54.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label54.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11.25pt</value>
-  </data>
-  <data name="label54.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 65</value>
-  </data>
-  <data name="label54.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 18</value>
-  </data>
-  <data name="label54.TabIndex" type="System.Int32, mscorlib">
-    <value>6802</value>
-  </data>
-  <data name="label54.Text" xml:space="preserve">
-    <value>Delivered Barcoded Batch :</value>
-  </data>
-  <data name="&gt;&gt;label54.Name" xml:space="preserve">
-    <value>label54</value>
-  </data>
-  <data name="&gt;&gt;label54.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label54.Parent" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;label54.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <metadata name="statusStrip7.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>818, 17</value>
-  </metadata>
-  <data name="toolStripStatusLabel17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>10, 24</value>
-  </data>
-  <data name="toolStripStatusLabel17.Text" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="toolStripStatusLabel19.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 9.75pt, style=Bold</value>
-  </data>
-  <data name="toolStripStatusLabel19.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAGhJREFUSEvt
-        j7EJwEAMxLzKL51FM8CHgAjHucm15gUqDFZxdYhY171fOb87lbzjDxolkk/EJ+rsRPKOP2iUSD4Rn6iz
-        E8k7/qBRIvlEfKLOTiTv+INGieQT8Yk6O5G84w8aJZIf/lD1ANOPqbCNSsgqAAAAAElFTkSuQmCC
-</value>
-  </data>
-  <data name="toolStripStatusLabel19.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="toolStripStatusLabel19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>123, 24</value>
-  </data>
-  <data name="toolStripStatusLabel19.Text" xml:space="preserve">
-    <value>Record Count :</value>
-  </data>
-  <data name="lblVpoRecnt.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 9.75pt</value>
-  </data>
-  <data name="lblVpoRecnt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>15, 24</value>
-  </data>
-  <data name="lblVpoRecnt.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="toolStripStatusLabel21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>10, 24</value>
-  </data>
-  <data name="toolStripStatusLabel21.Text" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="statusStrip7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 532</value>
-  </data>
-  <data name="statusStrip7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1104, 29</value>
-  </data>
-  <data name="statusStrip7.TabIndex" type="System.Int32, mscorlib">
-    <value>6801</value>
-  </data>
-  <data name="statusStrip7.Text" xml:space="preserve">
-    <value>statusStrip7</value>
-  </data>
-  <data name="&gt;&gt;statusStrip7.Name" xml:space="preserve">
-    <value>statusStrip7</value>
-  </data>
-  <data name="&gt;&gt;statusStrip7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;statusStrip7.Parent" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;statusStrip7.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="tabExpPout16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
-  </data>
-  <data name="tabExpPout16.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="tabExpPout16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1110, 564</value>
-  </data>
-  <data name="tabExpPout16.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="tabExpPout16.Text" xml:space="preserve">
-    <value>tabExpPOut 16</value>
-  </data>
-  <data name="&gt;&gt;tabExpPout16.Name" xml:space="preserve">
-    <value>tabExpPout16</value>
-  </data>
-  <data name="&gt;&gt;tabExpPout16.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabExpPout16.Parent" xml:space="preserve">
-    <value>tabControl</value>
-  </data>
-  <data name="&gt;&gt;tabExpPout16.ZOrder" xml:space="preserve">
-    <value>16</value>
   </data>
   <data name="panel29.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
@@ -11480,7 +10885,7 @@
     <value>17, 52</value>
   </data>
   <data name="Logo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>321, 136</value>
+    <value>323, 136</value>
   </data>
   <data name="Logo.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
@@ -11690,7 +11095,7 @@
     <value>3</value>
   </data>
   <data name="panel29.Location" type="System.Drawing.Point, System.Drawing">
-    <value>373, 37</value>
+    <value>377, 37</value>
   </data>
   <data name="panel29.Size" type="System.Drawing.Size, System.Drawing">
     <value>361, 488</value>
@@ -11705,37 +11110,37 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel29.Parent" xml:space="preserve">
-    <value>tabAbout17</value>
+    <value>tabAbout15</value>
   </data>
   <data name="&gt;&gt;panel29.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="tabAbout17.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="tabAbout15.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
-  <data name="tabAbout17.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="tabAbout15.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
-  <data name="tabAbout17.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="tabAbout15.Size" type="System.Drawing.Size, System.Drawing">
     <value>1110, 564</value>
   </data>
-  <data name="tabAbout17.TabIndex" type="System.Int32, mscorlib">
+  <data name="tabAbout15.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
   </data>
-  <data name="tabAbout17.Text" xml:space="preserve">
-    <value>tabAbout 17</value>
+  <data name="tabAbout15.Text" xml:space="preserve">
+    <value>tabAbout 15</value>
   </data>
-  <data name="&gt;&gt;tabAbout17.Name" xml:space="preserve">
-    <value>tabAbout17</value>
+  <data name="&gt;&gt;tabAbout15.Name" xml:space="preserve">
+    <value>tabAbout15</value>
   </data>
-  <data name="&gt;&gt;tabAbout17.Type" xml:space="preserve">
+  <data name="&gt;&gt;tabAbout15.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabAbout17.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabAbout15.Parent" xml:space="preserve">
     <value>tabControl</value>
   </data>
-  <data name="&gt;&gt;tabAbout17.ZOrder" xml:space="preserve">
-    <value>17</value>
+  <data name="&gt;&gt;tabAbout15.ZOrder" xml:space="preserve">
+    <value>15</value>
   </data>
   <data name="panel31.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
@@ -11784,7 +11189,7 @@
     <value> </value>
   </data>
   <data name="statusStrip10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 408</value>
+    <value>0, 404</value>
   </data>
   <data name="statusStrip10.Size" type="System.Drawing.Size, System.Drawing">
     <value>1070, 29</value>
@@ -12001,7 +11406,7 @@
     <value>489, 86</value>
   </data>
   <data name="dgvBrandRec.Size" type="System.Drawing.Size, System.Drawing">
-    <value>559, 295</value>
+    <value>559, 291</value>
   </data>
   <data name="dgvBrandRec.TabIndex" type="System.Int32, mscorlib">
     <value>6767</value>
@@ -12160,7 +11565,7 @@
     <value>24, 63</value>
   </data>
   <data name="panel31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1070, 437</value>
+    <value>1070, 433</value>
   </data>
   <data name="panel31.TabIndex" type="System.Int32, mscorlib">
     <value>6805</value>
@@ -12172,7 +11577,7 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel31.Parent" xml:space="preserve">
-    <value>tabBrand18</value>
+    <value>tabBrand16</value>
   </data>
   <data name="&gt;&gt;panel31.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -12224,7 +11629,7 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnStoreBack.Parent" xml:space="preserve">
-    <value>tabBrand18</value>
+    <value>tabBrand16</value>
   </data>
   <data name="&gt;&gt;btnStoreBack.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -12299,37 +11704,37 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel32.Parent" xml:space="preserve">
-    <value>tabBrand18</value>
+    <value>tabBrand16</value>
   </data>
   <data name="&gt;&gt;panel32.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="tabBrand18.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="tabBrand16.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
-  <data name="tabBrand18.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="tabBrand16.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
-  <data name="tabBrand18.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="tabBrand16.Size" type="System.Drawing.Size, System.Drawing">
     <value>1110, 564</value>
   </data>
-  <data name="tabBrand18.TabIndex" type="System.Int32, mscorlib">
+  <data name="tabBrand16.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
   </data>
-  <data name="tabBrand18.Text" xml:space="preserve">
-    <value>tabBrand 18</value>
+  <data name="tabBrand16.Text" xml:space="preserve">
+    <value>tabBrand 16</value>
   </data>
-  <data name="&gt;&gt;tabBrand18.Name" xml:space="preserve">
-    <value>tabBrand18</value>
+  <data name="&gt;&gt;tabBrand16.Name" xml:space="preserve">
+    <value>tabBrand16</value>
   </data>
-  <data name="&gt;&gt;tabBrand18.Type" xml:space="preserve">
+  <data name="&gt;&gt;tabBrand16.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabBrand18.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabBrand16.Parent" xml:space="preserve">
     <value>tabControl</value>
   </data>
-  <data name="&gt;&gt;tabBrand18.ZOrder" xml:space="preserve">
-    <value>18</value>
+  <data name="&gt;&gt;tabBrand16.ZOrder" xml:space="preserve">
+    <value>16</value>
   </data>
   <data name="panel33.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
@@ -12751,7 +12156,7 @@
     <value>3</value>
   </data>
   <data name="panel33.Location" type="System.Drawing.Point, System.Drawing">
-    <value>17, 65</value>
+    <value>17, 57</value>
   </data>
   <data name="panel33.Size" type="System.Drawing.Size, System.Drawing">
     <value>1076, 437</value>
@@ -12766,7 +12171,7 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel33.Parent" xml:space="preserve">
-    <value>tabStore19</value>
+    <value>tabStore17</value>
   </data>
   <data name="&gt;&gt;panel33.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -12797,7 +12202,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnStoreBackSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1002, 513</value>
+    <value>1002, 511</value>
   </data>
   <data name="btnStoreBackSettings.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -12818,7 +12223,7 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnStoreBackSettings.Parent" xml:space="preserve">
-    <value>tabStore19</value>
+    <value>tabStore17</value>
   </data>
   <data name="&gt;&gt;btnStoreBackSettings.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -12894,37 +12299,37 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel34.Parent" xml:space="preserve">
-    <value>tabStore19</value>
+    <value>tabStore17</value>
   </data>
   <data name="&gt;&gt;panel34.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="tabStore19.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="tabStore17.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
-  <data name="tabStore19.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="tabStore17.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
-  <data name="tabStore19.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="tabStore17.Size" type="System.Drawing.Size, System.Drawing">
     <value>1110, 564</value>
   </data>
-  <data name="tabStore19.TabIndex" type="System.Int32, mscorlib">
+  <data name="tabStore17.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
   </data>
-  <data name="tabStore19.Text" xml:space="preserve">
-    <value>tabStore 19</value>
+  <data name="tabStore17.Text" xml:space="preserve">
+    <value>tabStore 17</value>
   </data>
-  <data name="&gt;&gt;tabStore19.Name" xml:space="preserve">
-    <value>tabStore19</value>
+  <data name="&gt;&gt;tabStore17.Name" xml:space="preserve">
+    <value>tabStore17</value>
   </data>
-  <data name="&gt;&gt;tabStore19.Type" xml:space="preserve">
+  <data name="&gt;&gt;tabStore17.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabStore19.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabStore17.Parent" xml:space="preserve">
     <value>tabControl</value>
   </data>
-  <data name="&gt;&gt;tabStore19.ZOrder" xml:space="preserve">
-    <value>19</value>
+  <data name="&gt;&gt;tabStore17.ZOrder" xml:space="preserve">
+    <value>17</value>
   </data>
   <data name="panel35.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
@@ -13140,7 +12545,7 @@
     <value>4</value>
   </data>
   <data name="panel35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>293, 149</value>
+    <value>291, 149</value>
   </data>
   <data name="panel35.Size" type="System.Drawing.Size, System.Drawing">
     <value>536, 263</value>
@@ -13155,37 +12560,37 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel35.Parent" xml:space="preserve">
-    <value>tabCreatePullOut20</value>
+    <value>tabCreatePullOut18</value>
   </data>
   <data name="&gt;&gt;panel35.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="tabCreatePullOut20.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="tabCreatePullOut18.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
-  <data name="tabCreatePullOut20.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="tabCreatePullOut18.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
-  <data name="tabCreatePullOut20.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="tabCreatePullOut18.Size" type="System.Drawing.Size, System.Drawing">
     <value>1110, 564</value>
   </data>
-  <data name="tabCreatePullOut20.TabIndex" type="System.Int32, mscorlib">
+  <data name="tabCreatePullOut18.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
   </data>
-  <data name="tabCreatePullOut20.Text" xml:space="preserve">
-    <value>tabCreatePullOut 20</value>
+  <data name="tabCreatePullOut18.Text" xml:space="preserve">
+    <value>tabCreatePullOut 18</value>
   </data>
-  <data name="&gt;&gt;tabCreatePullOut20.Name" xml:space="preserve">
-    <value>tabCreatePullOut20</value>
+  <data name="&gt;&gt;tabCreatePullOut18.Name" xml:space="preserve">
+    <value>tabCreatePullOut18</value>
   </data>
-  <data name="&gt;&gt;tabCreatePullOut20.Type" xml:space="preserve">
+  <data name="&gt;&gt;tabCreatePullOut18.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabCreatePullOut20.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabCreatePullOut18.Parent" xml:space="preserve">
     <value>tabControl</value>
   </data>
-  <data name="&gt;&gt;tabCreatePullOut20.ZOrder" xml:space="preserve">
-    <value>20</value>
+  <data name="&gt;&gt;tabCreatePullOut18.ZOrder" xml:space="preserve">
+    <value>18</value>
   </data>
   <data name="btnExpPOList.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
@@ -13215,7 +12620,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnExpPOList.Location" type="System.Drawing.Point, System.Drawing">
-    <value>908, 516</value>
+    <value>907, 516</value>
   </data>
   <data name="btnExpPOList.Size" type="System.Drawing.Size, System.Drawing">
     <value>184, 36</value>
@@ -13236,7 +12641,7 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnExpPOList.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;btnExpPOList.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -13271,7 +12676,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="btnCancelPO.Location" type="System.Drawing.Point, System.Drawing">
-    <value>811, 516</value>
+    <value>810, 516</value>
   </data>
   <data name="btnCancelPO.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 36</value>
@@ -13292,7 +12697,7 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnCancelPO.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;btnCancelPO.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -13319,7 +12724,7 @@
     <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;txtQtyPO.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;txtQtyPO.ZOrder" xml:space="preserve">
     <value>2</value>
@@ -13373,7 +12778,7 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnToPO.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;btnToPO.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -13478,7 +12883,7 @@
     <value> </value>
   </data>
   <data name="statusStrip11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 382</value>
+    <value>0, 379</value>
   </data>
   <data name="statusStrip11.Size" type="System.Drawing.Size, System.Drawing">
     <value>606, 29</value>
@@ -13772,7 +13177,7 @@
     <value>7, 122</value>
   </data>
   <data name="dgvDeliveredRec.Size" type="System.Drawing.Size, System.Drawing">
-    <value>585, 249</value>
+    <value>585, 246</value>
   </data>
   <data name="dgvDeliveredRec.TabIndex" type="System.Int32, mscorlib">
     <value>6809</value>
@@ -13875,7 +13280,7 @@
     <value> </value>
   </data>
   <data name="statusStrip12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 382</value>
+    <value>0, 379</value>
   </data>
   <data name="statusStrip12.Size" type="System.Drawing.Size, System.Drawing">
     <value>456, 29</value>
@@ -13935,7 +13340,7 @@
     <value>14, 122</value>
   </data>
   <data name="dgvToPO.Size" type="System.Drawing.Size, System.Drawing">
-    <value>432, 249</value>
+    <value>432, 246</value>
   </data>
   <data name="dgvToPO.TabIndex" type="System.Int32, mscorlib">
     <value>6810</value>
@@ -13965,7 +13370,7 @@
     <value>1</value>
   </data>
   <data name="splitContainer2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1070, 413</value>
+    <value>1070, 410</value>
   </data>
   <data name="splitContainer2.SplitterDistance" type="System.Int32, mscorlib">
     <value>608</value>
@@ -13989,7 +13394,7 @@
     <value>21, 96</value>
   </data>
   <data name="panel38.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1070, 413</value>
+    <value>1070, 410</value>
   </data>
   <data name="panel38.TabIndex" type="System.Int32, mscorlib">
     <value>6811</value>
@@ -14001,7 +13406,7 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel38.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;panel38.ZOrder" xml:space="preserve">
     <value>4</value>
@@ -14078,7 +13483,7 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel37.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;panel37.ZOrder" xml:space="preserve">
     <value>5</value>
@@ -14090,7 +13495,7 @@
     <value>Microsoft Sans Serif, 11.25pt, style=Bold</value>
   </data>
   <data name="lblPullOutBatch.Location" type="System.Drawing.Point, System.Drawing">
-    <value>135, 62</value>
+    <value>135, 58</value>
   </data>
   <data name="lblPullOutBatch.Size" type="System.Drawing.Size, System.Drawing">
     <value>26, 18</value>
@@ -14108,7 +13513,7 @@
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;lblPullOutBatch.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;lblPullOutBatch.ZOrder" xml:space="preserve">
     <value>6</value>
@@ -14120,7 +13525,7 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="label76.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 62</value>
+    <value>19, 58</value>
   </data>
   <data name="label76.Size" type="System.Drawing.Size, System.Drawing">
     <value>110, 18</value>
@@ -14138,37 +13543,37 @@
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label76.Parent" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+    <value>tabExpPullOut19</value>
   </data>
   <data name="&gt;&gt;label76.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="tabExpPullOut21.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="tabExpPullOut19.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 22</value>
   </data>
-  <data name="tabExpPullOut21.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="tabExpPullOut19.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
-  <data name="tabExpPullOut21.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="tabExpPullOut19.Size" type="System.Drawing.Size, System.Drawing">
     <value>1110, 564</value>
   </data>
-  <data name="tabExpPullOut21.TabIndex" type="System.Int32, mscorlib">
+  <data name="tabExpPullOut19.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
   </data>
-  <data name="tabExpPullOut21.Text" xml:space="preserve">
-    <value>tabPullOutExp 21</value>
+  <data name="tabExpPullOut19.Text" xml:space="preserve">
+    <value>tabPullOutExp 19</value>
   </data>
-  <data name="&gt;&gt;tabExpPullOut21.Name" xml:space="preserve">
-    <value>tabExpPullOut21</value>
+  <data name="&gt;&gt;tabExpPullOut19.Name" xml:space="preserve">
+    <value>tabExpPullOut19</value>
   </data>
-  <data name="&gt;&gt;tabExpPullOut21.Type" xml:space="preserve">
+  <data name="&gt;&gt;tabExpPullOut19.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabExpPullOut21.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabExpPullOut19.Parent" xml:space="preserve">
     <value>tabControl</value>
   </data>
-  <data name="&gt;&gt;tabExpPullOut21.ZOrder" xml:space="preserve">
-    <value>21</value>
+  <data name="&gt;&gt;tabExpPullOut19.ZOrder" xml:space="preserve">
+    <value>19</value>
   </data>
   <data name="tabControl.Location" type="System.Drawing.Point, System.Drawing">
     <value>-3, -21</value>
@@ -14833,30 +14238,6 @@
     <value>toolStripStatusLabel18</value>
   </data>
   <data name="&gt;&gt;toolStripStatusLabel18.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel17.Name" xml:space="preserve">
-    <value>toolStripStatusLabel17</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel17.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel19.Name" xml:space="preserve">
-    <value>toolStripStatusLabel19</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel19.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblVpoRecnt.Name" xml:space="preserve">
-    <value>lblVpoRecnt</value>
-  </data>
-  <data name="&gt;&gt;lblVpoRecnt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel21.Name" xml:space="preserve">
-    <value>toolStripStatusLabel21</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel21.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripStatusLabel23.Name" xml:space="preserve">

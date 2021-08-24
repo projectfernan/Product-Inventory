@@ -43,6 +43,7 @@
             this.txtBoxes = new System.Windows.Forms.NumericUpDown();
             this.label3 = new System.Windows.Forms.Label();
             this.dtExpectPOut = new System.Windows.Forms.DateTimePicker();
+            this.progBar = new System.Windows.Forms.ProgressBar();
             this.panel9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtBoxes)).BeginInit();
             this.SuspendLayout();
@@ -217,13 +218,24 @@
             this.dtExpectPOut.Size = new System.Drawing.Size(209, 24);
             this.dtExpectPOut.TabIndex = 3;
             // 
+            // progBar
+            // 
+            this.progBar.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.progBar.ForeColor = System.Drawing.Color.Lime;
+            this.progBar.Location = new System.Drawing.Point(0, 374);
+            this.progBar.Name = "progBar";
+            this.progBar.Size = new System.Drawing.Size(409, 28);
+            this.progBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
+            this.progBar.TabIndex = 2538;
+            // 
             // frmExpSmVPO
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(409, 382);
+            this.ClientSize = new System.Drawing.Size(409, 402);
             this.ControlBox = false;
+            this.Controls.Add(this.progBar);
             this.Controls.Add(this.dtExpectPOut);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtBoxes);
@@ -252,7 +264,6 @@
         #endregion
 
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.DateTimePicker txtBoxesdtExpectPOut;
         private System.Windows.Forms.Panel panel9;
         private System.Windows.Forms.Label lblClose;
         private System.Windows.Forms.Label label11;
@@ -266,5 +277,6 @@
         private System.Windows.Forms.NumericUpDown txtBoxes;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.DateTimePicker dtExpectPOut;
+        private System.Windows.Forms.ProgressBar progBar;
     }
 }

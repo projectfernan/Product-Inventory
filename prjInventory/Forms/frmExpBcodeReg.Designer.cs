@@ -39,6 +39,7 @@
             this.btnExpSMTemp = new System.Windows.Forms.Button();
             this.txtExcelFname = new System.Windows.Forms.TextBox();
             this.label13 = new System.Windows.Forms.Label();
+            this.progBar = new System.Windows.Forms.ProgressBar();
             this.panel9.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -164,13 +165,24 @@
             this.label13.TabIndex = 940;
             this.label13.Text = "Excel File Name :";
             // 
+            // progBar
+            // 
+            this.progBar.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.progBar.ForeColor = System.Drawing.Color.Lime;
+            this.progBar.Location = new System.Drawing.Point(0, 272);
+            this.progBar.Name = "progBar";
+            this.progBar.Size = new System.Drawing.Size(409, 28);
+            this.progBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
+            this.progBar.TabIndex = 941;
+            // 
             // frmExpBcodeReg
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(409, 294);
+            this.ClientSize = new System.Drawing.Size(409, 300);
             this.ControlBox = false;
+            this.Controls.Add(this.progBar);
             this.Controls.Add(this.txtExcelFname);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.btnExpSMTemp);
@@ -202,5 +214,6 @@
         private System.Windows.Forms.Button btnExpSMTemp;
         private System.Windows.Forms.TextBox txtExcelFname;
         private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.ProgressBar progBar;
     }
 }

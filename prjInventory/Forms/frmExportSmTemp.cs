@@ -24,6 +24,23 @@ namespace prjInventory
         public frmExportSmTemp()
         {
             InitializeComponent();
+            exp.UpdateProgress += UpdateProgress;
+            exp.UpdProgBaxMax += UpdProgBarMax;
+        }
+
+        void UpdateProgress(int ProgressPercentage)
+        {
+            if (ProgressPercentage < 0)
+            {
+                return;
+            }
+            progBar.Value = ProgressPercentage;
+        }
+
+        void UpdProgBarMax(int MaxVal, int MinVal)
+        {
+            progBar.Maximum = MaxVal;
+            progBar.Minimum = MinVal;
         }
 
         private void lblClose_Click(object sender, EventArgs e)

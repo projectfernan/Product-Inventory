@@ -23,9 +23,27 @@ namespace prjInventory
         StoreCode strCode = new StoreCode();
         ProductPullOut po = new ProductPullOut();
 
+        void UpdateProgress(int ProgressPercentage)
+        {
+            if (ProgressPercentage < 0)
+            {
+                return;
+            }
+            progBar.Value = ProgressPercentage;
+        }
+
+        void UpdProgBarMax(int MaxVal, int MinVal)
+        {
+            progBar.Maximum = MaxVal;
+            progBar.Minimum = MinVal;
+        }
+
         public frmExpSmVPO()
         {
             InitializeComponent();
+
+            vpo.UpdateProgress += UpdateProgress;
+            vpo.UpdProgBaxMax += UpdProgBarMax;
         }
 
         private void lblClose_Click(object sender, EventArgs e)

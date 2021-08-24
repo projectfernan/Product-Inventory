@@ -116,7 +116,7 @@ namespace prjInventory
                                     Application.DoEvents();
                                 } while (intCount != 0);
 
-                                reDelete: if (delInvWb(wbName) == false)
+reDelete:                       if (delInvWb(wbName) == false)
                                 {
                                     goto reDelete;
                                 }
@@ -335,6 +335,11 @@ namespace prjInventory
 
                     if (dt.Rows.Count > 0)
                     {
+                        this.maxCount = dt.Rows.Count;
+                        this.intCount = 0;
+
+                        UpdProgBaxMax(maxCount, intCount);
+
                         ws.Cells[1, 1] = "ID";
                         ws.Cells[1, 2] = "VENDOR";
                         ws.Cells[1, 3] = "SEASON";
@@ -367,6 +372,11 @@ namespace prjInventory
                             lup++;
                             fild++;
                             id++;
+
+                            intCount++;
+                            UpdateProgress(intCount);
+                            Application.DoEvents();
+
                         } while (fild != dt.Rows.Count);
 
                         wb.SaveAs(sfd.FileName, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing,

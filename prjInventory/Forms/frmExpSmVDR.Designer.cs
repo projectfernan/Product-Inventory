@@ -44,6 +44,7 @@
             this.cboStore = new System.Windows.Forms.ComboBox();
             this.txtDeliBatch = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.progBar = new System.Windows.Forms.ProgressBar();
             this.panel9.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -224,13 +225,24 @@
             this.label2.TabIndex = 952;
             this.label2.Text = "Delivery Batch Name :";
             // 
+            // progBar
+            // 
+            this.progBar.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.progBar.ForeColor = System.Drawing.Color.Lime;
+            this.progBar.Location = new System.Drawing.Point(0, 368);
+            this.progBar.Name = "progBar";
+            this.progBar.Size = new System.Drawing.Size(439, 28);
+            this.progBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
+            this.progBar.TabIndex = 2537;
+            // 
             // frmExpSmVDR
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(439, 384);
+            this.ClientSize = new System.Drawing.Size(439, 396);
             this.ControlBox = false;
+            this.Controls.Add(this.progBar);
             this.Controls.Add(this.txtDeliBatch);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cboStore);
@@ -273,6 +285,7 @@
         private System.Windows.Forms.ComboBox cboStore;
         private System.Windows.Forms.TextBox txtDeliBatch;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ProgressBar progBar;
 
     }
 }

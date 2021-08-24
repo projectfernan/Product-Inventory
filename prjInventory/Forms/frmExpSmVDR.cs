@@ -25,6 +25,23 @@ namespace prjInventory
         public frmExpSmVDR()
         {
             InitializeComponent();
+            vdr.UpdateProgress += UpdateProgress;
+            vdr.UpdProgBaxMax += UpdProgBarMax;
+        }
+
+        void UpdateProgress(int ProgressPercentage)
+        {
+            if (ProgressPercentage < 0)
+            {
+                return;
+            }
+            progBar.Value = ProgressPercentage;
+        }
+
+        void UpdProgBarMax(int MaxVal, int MinVal)
+        {
+            progBar.Maximum = MaxVal;
+            progBar.Minimum = MinVal;
         }
 
         private void btnExpSMTemp_Click(object sender, EventArgs e)

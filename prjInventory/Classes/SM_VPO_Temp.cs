@@ -12,6 +12,15 @@ namespace prjInventory
 {
     class SM_VPO_Temp : Excel_Conn
     {
+        internal delegate void UpdateProgressDelegate(int ProgressPercentage);
+        internal event UpdateProgressDelegate UpdateProgress;
+
+        internal delegate void UpdProgMax(int ProgMax, int ProgMin);
+        internal event UpdProgMax UpdProgBaxMax;
+
+        public int maxCount;
+        public int intCount;
+
         WaitCursor wc = new WaitCursor();
         public bool VpoBcodeBatchList(ComboBox cbo, string uplBy)
         {
@@ -87,6 +96,11 @@ namespace prjInventory
 
                     if (dt.Rows.Count > 0)
                     {
+                        this.maxCount = dt.Rows.Count;
+                        this.intCount = 0;
+
+                        UpdProgBaxMax(maxCount, intCount);
+
                         ws.Cells[1, 1] = "Vendor Code";
                         ws.Cells[1, 2] = "SCPOA No.";
                         ws.Cells[1, 3] = "Store Code";
@@ -115,6 +129,11 @@ namespace prjInventory
 
                             lup++;
                             fild++;
+
+                            intCount++;
+                            UpdateProgress(intCount);
+                            Application.DoEvents();
+
                         } while (fild != dt.Rows.Count);
 
                         wb.SaveAs(sfd.FileName, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing,

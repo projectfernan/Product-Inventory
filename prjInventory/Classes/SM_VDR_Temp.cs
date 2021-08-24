@@ -12,7 +12,14 @@ namespace prjInventory
 {
     class SM_VDR_Temp : Excel_Conn
     {
+        internal delegate void UpdateProgressDelegate(int ProgressPercentage);
+        internal event UpdateProgressDelegate UpdateProgress;
 
+        internal delegate void UpdProgMax(int ProgMax, int ProgMin);
+        internal event UpdProgMax UpdProgBaxMax;
+
+        int maxCount;
+        int intCount;
 
         WaitCursor wc = new WaitCursor();
 
@@ -92,6 +99,11 @@ namespace prjInventory
 
                     if (dt.Rows.Count > 0)
                     {
+                        this.maxCount = dt.Rows.Count;
+                        this.intCount = 0;
+
+                        UpdProgBaxMax(maxCount, intCount);
+
                         ws.Cells[1, 1] = "DR No.";
                         ws.Cells[1, 2] = "Store Code";
                         ws.Cells[1, 3] = "Expected Delivery Date";
@@ -121,6 +133,11 @@ reins:                      if (delv.insDelivery(dt.Rows[fild]["SKU"].ToString()
 
                             lup++;
                             fild++;
+
+                            intCount++;
+                            UpdateProgress(intCount);
+                            Application.DoEvents();
+
                         } while (fild != dt.Rows.Count);
 
                         wb.SaveAs(sfd.FileName, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing,

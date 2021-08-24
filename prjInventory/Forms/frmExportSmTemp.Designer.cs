@@ -58,6 +58,7 @@
             this.label14 = new System.Windows.Forms.Label();
             this.txtSubDeptCode = new System.Windows.Forms.TextBox();
             this.cboBrand = new System.Windows.Forms.ComboBox();
+            this.progBar = new System.Windows.Forms.ProgressBar();
             this.panel9.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -393,13 +394,24 @@
             this.cboBrand.SelectedValueChanged += new System.EventHandler(this.cboBrand_SelectedValueChanged);
             this.cboBrand.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cboBrand_KeyDown);
             // 
+            // progBar
+            // 
+            this.progBar.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.progBar.ForeColor = System.Drawing.Color.Lime;
+            this.progBar.Location = new System.Drawing.Point(0, 690);
+            this.progBar.Name = "progBar";
+            this.progBar.Size = new System.Drawing.Size(471, 28);
+            this.progBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
+            this.progBar.TabIndex = 2536;
+            // 
             // frmExportSmTemp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(471, 705);
+            this.ClientSize = new System.Drawing.Size(471, 718);
             this.ControlBox = false;
+            this.Controls.Add(this.progBar);
             this.Controls.Add(this.cboBrand);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.txtSubDeptCode);
@@ -470,5 +482,6 @@
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.TextBox txtSubDeptCode;
         private System.Windows.Forms.ComboBox cboBrand;
+        private System.Windows.Forms.ProgressBar progBar;
     }
 }
