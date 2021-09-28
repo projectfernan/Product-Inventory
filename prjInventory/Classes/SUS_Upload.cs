@@ -399,7 +399,7 @@ namespace prjInventory
 
                     DataTable dt = new DataTable();
 
-                    string getQr = "SELECT Brand,Description,Color,Size,oSRP,Category FROM tblproducts WHERE WorkBatchName = '" + wbName + "' and FileStatus = 0";
+                    string getQr = "SELECT Brand,ItemCode,Color,Size,oSRP,Category FROM tblproducts WHERE WorkBatchName = '" + wbName + "' and FileStatus = 0";
 
                     dt = MySqlQuery(getQr);
 
@@ -440,7 +440,7 @@ namespace prjInventory
                             ws.Cells[lup, 5] = brandCode;
                             ws.Cells[lup, 6] = dt.Rows[fild]["Category"].ToString();
                             ws.Cells[lup, 7] = dt.Rows[fild]["Brand"].ToString();
-                            ws.Cells[lup, 8] = dt.Rows[fild]["Description"].ToString();
+                            ws.Cells[lup, 8] = dt.Rows[fild]["ItemCode"].ToString();
                             ws.Cells[lup, 9] = dt.Rows[fild]["Color"].ToString();
                             ws.Cells[lup, 10] = dt.Rows[fild]["Size"].ToString();
                             ws.Cells[lup, 11] = stockStyleCode;

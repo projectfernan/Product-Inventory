@@ -1373,16 +1373,16 @@
             // 
             // btnTest
             // 
-            resources.ApplyResources(this.btnTest, "btnTest");
             this.btnTest.BackColor = System.Drawing.Color.White;
+            resources.ApplyResources(this.btnTest, "btnTest");
             this.btnTest.Name = "btnTest";
             this.btnTest.UseVisualStyleBackColor = false;
             this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
             // 
             // btnSave
             // 
-            resources.ApplyResources(this.btnSave, "btnSave");
             this.btnSave.BackColor = System.Drawing.Color.White;
+            resources.ApplyResources(this.btnSave, "btnSave");
             this.btnSave.Name = "btnSave";
             this.btnSave.UseVisualStyleBackColor = false;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
@@ -3517,8 +3517,8 @@
             // 
             // MainForm
             // 
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
             resources.ApplyResources(this, "$this");
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.statusStrip1);
             this.KeyPreview = true;
